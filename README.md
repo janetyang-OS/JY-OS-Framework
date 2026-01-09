@@ -5,7 +5,7 @@
 
 **JY-OS** is not a philosophy; it is an engineering solution to a civilization-level problem. As AI accelerates and information entropy increases, the old human operating system (Legacy OS) is failing. JY-OS provides a full-stack architecture to ensure humans don't just survive the AI era, but achieve "Civilizational Escape Velocity."
 
-![Map](images/escape-map.jpg) instead).
+![Escape Velocity Strategy Map](escape-map.jpg)
 
 ---
 
