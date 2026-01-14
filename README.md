@@ -9,6 +9,34 @@
 
 ---
 
+# 🧭 Project: The Coordinates of Happiness (v1.0)
+
+> "Don't just upgrade your hardware (Wealth). Upgrade your operating system (Mindset)."
+
+### 1. The Blur (我們原本以為的)
+社會告訴我們，人生只有一條 X 軸：
+* ⬅️ **Poor (Sad)**
+* ➡️ **Rich (Happy)**
+所以我們拼命往右跑，以為到了終點就會快樂。
+
+### 2. The Clarity (分析師看到的真相)
+實際上，這是一個 **2x2 的矩陣**。我們忽略了 Y 軸（精神壓力 Mental Pressure）。
+許多人拼命往右跑，結果掉進了右上角的陷阱。
+
+![The Mental Pressure Map](mental-pressure-map-v1.png)
+*(Fig 1. The Hidden Map of Pressure - Analysis by Janet Yang)*
+
+* **🟥 Top-Right (The Rat Race):** 物質富裕，但大腦過熱 (Overheating)。焦慮、比較、補習地獄。
+* **🟩 Bottom-Left (Simple Community):** 物質簡單，但內心平靜。這是我們常忽略的幸福原型。
+
+### 3. The Solution (我們的目標)
+JY-OS 系統的終極目標，是圖中紅圈的 **右下角 (Secure Affluence)**：
+* **Hardware:** Level 4 物質條件 (Freedom of Choice)
+* **Software:** Low Mental Pressure (Freedom of Mind)
+
+---
+*Logged by Janet Yang, Industry Analyst*
+*Date: 2026-01-14*
 ## 📄 Core Documentation
 **[Read the Full White Paper (PDF)](./JANET_YANG_OS_白皮書.pdf)**
 *(Language: Traditional Chinese | Version: 1.0)*
