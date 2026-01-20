@@ -79,7 +79,7 @@ To maintain the high performance required in **The Forge (Phase 2)** without cra
 
 ### 2. The Visual Model (Path A vs. Path B)
 
-![Addition vs Subtraction Model](subtraction-model.jpg)
+![Addition vs Subtraction Model](subtraction-model.JPG)
 *(Fig 3. The Career Bifurcation Map - Hand-drawn by Janet Yang)*
 
 ### 3. The Upgrade
