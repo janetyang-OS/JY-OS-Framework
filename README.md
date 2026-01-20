@@ -79,37 +79,37 @@ To maintain the high performance required in **The Forge (Phase 2)** without cra
 
 ### 2. The Visual Model (Path A vs. Path B)
 
-```mermaid
-graph TD
-    %% Styles
-    classDef base fill:#f9f9f9,stroke:#333,stroke-width:2px,color:#333;
-    classDef typeA fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333;
-    classDef typeB fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333;
-    classDef critical fill:#ffebee,stroke:#c62828,stroke-width:4px,color:#333;
-    classDef resultA fill:#b0bec5,stroke:#333,stroke-dasharray: 5 5,color:#333;
-    classDef resultB fill:#ffd54f,stroke:#333,stroke-width:3px,color:#333;
+![Addition vs Subtraction Model](subtraction-model.jpg)
+*(Fig 3. The Career Bifurcation Map - Hand-drawn by Janet Yang)*
 
-    Start(Start: Smart & Hardworking<br/>Fast Learner, Cooperative) -->|Early Stage| Reward[Reward: Praise & Affirmation]
-    Reward -->|Crucial Turning Point| Trigger{Trigger: Complexity Increases}
+### 3. The Upgrade
+* **Path A (Legacy):** Effort = Safety. Result = Replaceable Executor.
+* **Path B (JY-OS):** Judgment = Value. Result = Irreplaceable Leader.
 
-    %% Type A Path
-    Trigger -->|Path A: Addition Mindset| ActionA[Reflex: Add Data, Explain More, 'Play Safe']
-    ActionA -->|Psychological Logic| MindA(Mindset: 'If I do everything, I won't be blamed')
-    MindA -->|Long-term Result| CareerA[Career Curve: Linear Growth<br/>High Workload / Low Impact / Replaceable]
-    class ActionA,MindA typeA;
-    class CareerA resultA;
+**The Golden Rule:** Before executing any task, ask: *"If I remove this part, does my message become weaker or clearer?"* If it becomes clearer, delete it.
 
-    %% Type B Path
-    Trigger -->|Path B: Subtraction Mindset| ActionB[Reflex: Ask 'What if we don't?'<br/>Actively Cut 30-50%]
-    ActionB -->|Psychological Logic| MindB(Mindset: Value comes from Judgment, not Completeness)
-    MindB -->|Long-term Result| CareerB[Career Curve: Exponential Growth<br/>Lean Workload / Key Decisions / Irreplaceable]
-    class ActionB,MindB typeB;
-    class CareerB resultB;
+---
 
-    %% The Gap
-    CareerA -.->|The Pivot Point| Gap((Gap: The Decision Threshold))
-    CareerB -.-> Gap
-    Gap --> Lesson[Lesson: Organizations don't lack executors<br/>They lack people who dare to decide 'What NOT to do']
-    
-    class Gap critical;
-    class Lesson base;
+## 🏗 The Architecture
+The framework is built on four distinct layers, moving from physical constraints to behavioral execution.
+
+### Layer 1: Kernel (Compute Sovereignty)
+* **The Solution:** Understanding "Compute Sovereignty"—the new class divide between those who rent intelligence and those who own their compute stack.
+
+### Layer 2: Firewall (Cognitive Security)
+* **The Solution:** A "Cognitive Firewall" that filters input to protect deep thinking and prevent energy leakage.
+
+### Layer 3: Interface (Orchestration Matrix)
+* **The Solution:** Moving from "using" AI to "commanding" a matrix of 6 personalities (The Spark, Deep Diver, Radar, Architect, Critic, Executor).
+
+### Layer 4: Runtime (The Super-Individual)
+* **The Solution:** The daily behavioral loops and "Family OS" protocols that allow an individual to evolve faster than the environment changes.
+
+---
+
+## 🚀 The Goal: Escape Velocity
+The ultimate metric of JY-OS is not productivity, but **Civilizational Escape Velocity**. It is the ability of an individual (or family) to generate enough cognitive momentum to break free from the gravity of the Legacy OS and enter a new trajectory of self-evolution.
+
+---
+*Logged by Janet Yang, Industry Analyst*
+*Date: 2026-01-20*
