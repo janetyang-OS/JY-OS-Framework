@@ -1,4 +1,4 @@
-# JY-OS Framework (v1.0)
+# JY-OS Framework (v1.1)
 ### A Modular Operating System for Human Survival & Self-Evolution in the AI Civilization Rift
 
 > "When the rules change, survival becomes a design problem." — *Janet Yang*
@@ -9,7 +9,7 @@
 
 ---
 
-# 🧭 Project: The Coordinates of Happiness (v1.0)
+# 🧭 Phase 1: The Coordinates (Destination)
 
 > "Don't just upgrade your hardware (Wealth). Upgrade your operating system (Mindset)."
 
@@ -33,10 +33,6 @@
 JY-OS 系統的終極目標，是圖中紅圈的 **右下角 (Secure Affluence)**：
 * **Hardware:** Level 4 物質條件 (Freedom of Choice)
 * **Software:** Low Mental Pressure (Freedom of Mind)
-
----
-*Logged by Janet Yang, Industry Analyst*
-*Date: 2026-01-14*
 
 ---
 
@@ -68,51 +64,52 @@ JY-OS 系統的終極目標，是圖中紅圈的 **右下角 (Secure Affluence)*
     * **Status:** **Janet & Logan's Zone.**
     * **Reality:** 這裡發生的是 **Ego Death (自我毀滅)** 與重生。
     * **The Price:** 必須忍受反人性的邏輯訓練 (Step Zero, Tri-verification)。
-    * **The Reward:** 只有爬過這座山，才能獲得真正的 **System Leverage**，進而達成 Phase 1 的 Secure Affluence。
-
-> **"我和 Logan 就在這裡，你們準備好上來了嗎？"**
-## 📄 Core Documentation
-**[Read the Full White Paper (PDF)](./JANET_YANG_OS_白皮書.pdf)**
-*(Language: Traditional Chinese | Version: 1.0)*
+    * **The Reward:** 只有爬過這座山，才能獲得真正的 **System Leverage**。
 
 ---
 
-## 🏗 The Architecture
-The framework is built on four distinct layers, moving from physical constraints to behavioral execution.
+# ⚖️ Phase 3: The Protocol (The Subtraction)
 
-### Layer 1: Kernel (Compute Sovereignty)
-* **The Logic:** Physics is law. Energy is destiny.
-* **The Problem:** AI is not just software; it is limited by energy and compute.
-* **The Solution:** Understanding "Compute Sovereignty"—the new class divide between those who rent intelligence and those who own their compute stack.
+> "High performers are not the ones who do the most. They are the ones who decide what NOT to do."
 
-### Layer 2: Firewall (Cognitive Security)
-* **The Logic:** Attention is energy.
-* **The Problem:** We live in a "Garbage Civilization" of high-entropy noise that depletes cognitive energy.
-* **The Solution:** A "Cognitive Firewall" that filters input to protect deep thinking and prevent energy leakage.
+### 1. The Trap of "Doing It All"
+In the Legacy OS, we are trained to win through **addition**: reply faster, add more slides, do more tasks. But in the complexity of the AI era, this leads to linear growth and eventual burnout.
 
-### Layer 3: Interface (Orchestration Matrix)
-* **The Logic:** Orchestration > Operation.
-* **The Problem:** Treating AI as a tool rather than a team.
-* **The Solution:** Moving from "using" AI to "commanding" a matrix of 6 personalities:
-    * **The Spark:** For creativity and momentum.
-    * **The Deep Diver:** For structured analysis.
-    * **The Radar:** For facts and trends.
-    * **The Architect:** For systems and frameworks.
-    * **The Critic:** For error detection.
-    * **The Executor:** For implementation.
+To maintain the high performance required in **The Forge (Phase 2)** without crashing, we must switch to a **Subtraction Mindset**.
 
-### Layer 4: Runtime (The Super-Individual)
-* **The Logic:** The OS must run automatically.
-* **The Problem:** Knowledge does not equal capability.
-* **The Solution:** The daily behavioral loops and "Family OS" protocols that allow an individual to evolve faster than the environment changes.
+### 2. The Visual Model (Path A vs. Path B)
 
----
+```mermaid
+graph TD
+    %% Styles
+    classDef base fill:#f9f9f9,stroke:#333,stroke-width:2px,color:#333;
+    classDef typeA fill:#e1f5fe,stroke:#0277bd,stroke-width:2px,color:#333;
+    classDef typeB fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#333;
+    classDef critical fill:#ffebee,stroke:#c62828,stroke-width:4px,color:#333;
+    classDef resultA fill:#b0bec5,stroke:#333,stroke-dasharray: 5 5,color:#333;
+    classDef resultB fill:#ffd54f,stroke:#333,stroke-width:3px,color:#333;
 
-## 🚀 The Goal: Escape Velocity
-The ultimate metric of JY-OS is not productivity, but **Civilizational Escape Velocity**. It is the ability of an individual (or family) to generate enough cognitive momentum to break free from the gravity of the Legacy OS and enter a new trajectory of self-evolution.
+    Start(Start: Smart & Hardworking<br/>Fast Learner, Cooperative) -->|Early Stage| Reward[Reward: Praise & Affirmation]
+    Reward -->|Crucial Turning Point| Trigger{Trigger: Complexity Increases}
 
----
+    %% Type A Path
+    Trigger -->|Path A: Addition Mindset| ActionA[Reflex: Add Data, Explain More, 'Play Safe']
+    ActionA -->|Psychological Logic| MindA(Mindset: 'If I do everything, I won't be blamed')
+    MindA -->|Long-term Result| CareerA[Career Curve: Linear Growth<br/>High Workload / Low Impact / Replaceable]
+    class ActionA,MindA typeA;
+    class CareerA resultA;
 
-### Author
-**Janet Yang**
-*Industry Analyst | Business Development | System Architect of JY-OS*
+    %% Type B Path
+    Trigger -->|Path B: Subtraction Mindset| ActionB[Reflex: Ask 'What if we don't?'<br/>Actively Cut 30-50%]
+    ActionB -->|Psychological Logic| MindB(Mindset: Value comes from Judgment, not Completeness)
+    MindB -->|Long-term Result| CareerB[Career Curve: Exponential Growth<br/>Lean Workload / Key Decisions / Irreplaceable]
+    class ActionB,MindB typeB;
+    class CareerB resultB;
+
+    %% The Gap
+    CareerA -.->|The Pivot Point| Gap((Gap: The Decision Threshold))
+    CareerB -.-> Gap
+    Gap --> Lesson[Lesson: Organizations don't lack executors<br/>They lack people who dare to decide 'What NOT to do']
+    
+    class Gap critical;
+    class Lesson base;
