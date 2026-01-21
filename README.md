@@ -129,5 +129,17 @@ Specific, documented procedures for executing JY-OS in real-world scenarios.
 The ultimate metric of JY-OS is not productivity, but **Civilizational Escape Velocity**. It is the ability of an individual (or family) to generate enough cognitive momentum to break free from the gravity of the Legacy OS and enter a new trajectory of self-evolution.
 
 ---
+
+## 🧬 About the Architect
+
+**Janet Yang** is an Industry Analyst and Business Development strategist based in Taiwan. She specializes in "Human-AI Symbiosis"—building systems that allow humans to leverage AI without losing their agency.
+
+* **Role:** Architect of JY-OS / Mom to Logan (The Pilot)
+* **Mission:** Turning the "AI Threat" into a "Family Advantage."
+* **Connect:**
+    * [LinkedIn](https://www.linkedin.com/in/janet-yang1005): For professional strategy & daily updates.
+    * [Medium](https://medium.com/@JanetYang0313): For deep dives & field notes from the AI frontier.
+
+> *"I don't just predict the future; I prototype it on Tuesday afternoons with my son."*
 *Logged by Janet Yang, Industry Analyst*
 *Date: 2026-01-21*
