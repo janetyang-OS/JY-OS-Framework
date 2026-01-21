@@ -1,11 +1,11 @@
-# JY-OS Framework (v2.0)
+# JY-OS Framework (v2.1)
 ### A Modular Operating System for Human Survival & Self-Evolution in the AI Civilization Rift
 
 > "When the rules change, survival becomes a design problem." — *Janet Yang*
 
 **JY-OS** is not a philosophy; it is an engineering solution to a civilization-level problem. As AI accelerates and information entropy increases, the old human operating system (Legacy OS) is failing. JY-OS provides a full-stack architecture to ensure humans don't just survive the AI era, but achieve "Civilizational Escape Velocity."
 
-![Escape Velocity Strategy Map](assets/escape-map.jpg)
+![Escape Velocity Strategy Map](assets/diagrams/escape-map.jpg)
 
 ---
 
@@ -23,7 +23,7 @@
 實際上，這是一個 **2x2 的矩陣**。我們忽略了 Y 軸（精神壓力 Mental Pressure）。
 許多人拼命往右跑，結果掉進了右上角的陷阱。
 
-![The Mental Pressure Map](assets/mental-pressure-map-v1.png)
+![The Mental Pressure Map](assets/diagrams/mental-pressure-map-v1.png)
 *(Fig 1. The Hidden Map of Pressure - Analysis by Janet Yang)*
 
 * **🟥 Top-Right (The Rat Race):** 物質富裕，但大腦過熱 (Overheating)。焦慮、比較、補習地獄。
@@ -43,7 +43,7 @@ JY-OS 系統的終極目標，是圖中紅圈的 **右下角 (Secure Affluence)*
 ### 1. The Reality Check (AI 時代的殘酷真相)
 大多數人以為 AI 是捷徑，但事實上，它是一座陡峭的山峰。如果不進行痛苦的認知重組，我們只會在原地空轉。
 
-![AI Forge Matrix](assets/ai-forge-matrix.jpg)
+![AI Forge Matrix](assets/diagrams/ai-forge-matrix.jpg)
 *(Fig 2. The AI Adaptation Matrix - The path to leverage)*
 
 ### 2. The Quadrants (你的位置在哪裡？)
@@ -134,7 +134,7 @@ To maintain the high performance required in **The Forge (Phase 2)** without cra
 
 ### 2. The Visual Model (Path A vs. Path B)
 
-![Addition vs Subtraction Model](assets/subtraction-model.JPG)
+![Addition vs Subtraction Model](assets/diagrams/subtraction-model.JPG)
 *(Fig 3.1: The Career Bifurcation Map - Hand-drawn by Janet Yang)*
 
 ### 3. The Upgrade
@@ -189,7 +189,7 @@ The following **Hard Constraints** are applied to the `Student-Output-Interface`
 * **Objective:** Execute high-stakes academic tasks via distributed teamwork (Office + School) using custom AI agents.
 * **Status:** Production (Validated 2026-01-20)
 * **The Visual Model:**
-![Remote Ops Workflow Sketch](assets/remote-ops-sketch.png)
+![Remote Ops Workflow Sketch](assets/diagrams/remote-ops-sketch.png)
 *(Fig 4.2. Asynchronous Intelligence, Synchronous Execution)*
 * **[➡️ View Full Protocol Documentation](workflows/remote-ops-protocol.md)**
 
