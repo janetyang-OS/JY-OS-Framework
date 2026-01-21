@@ -1,4 +1,4 @@
-# JY-OS Framework (v1.1)
+# JY-OS Framework (v2.0)
 ### A Modular Operating System for Human Survival & Self-Evolution in the AI Civilization Rift
 
 > "When the rules change, survival becomes a design problem." — *Janet Yang*
@@ -66,6 +66,61 @@ JY-OS 系統的終極目標，是圖中紅圈的 **右下角 (Secure Affluence)*
     * **The Price:** 必須忍受反人性的邏輯訓練 (Step Zero, Tri-verification)。
     * **The Reward:** 只有爬過這座山，才能獲得真正的 **System Leverage**。
 
+### 3. 🎨 Tool: The 3-Layer Visual Protocol
+**Status:** Stable | **Use Case:** Generative AI Image Creation
+**Objective:** To bypass "hallucination" and force AI to generate clean, engineering-grade visual notes.
+
+> "Don't ask the AI to imagine; tell it exactly where to put the ink."
+
+To reproduce the specific "JY-OS Visual Style" (Hand-drawn, Dan Roam style), use this 3-step stack:
+
+1.  **Layer 1: The Concept (Raw Logic)** - Define the input/output truth.
+2.  **Layer 2: The Visual Spec (The Blueprint)** - Translate logic into geometric instructions (Funnels, Cubes, Arrows).
+3.  **Layer 3: The Execution (The Prompt)** - Command the AI: "Black Pen + Yellow Highlighter on Whiteboard."
+
+---
+
+# 🧬 The Open Source Kernel (v2.0)
+**Status:** Public | **Type:** System Instruction
+**Goal:** Democratize "Cognitive Ownership."
+
+To create your own AI Coach (like the one running JY-OS), paste the following 3 layers into your AI's "Custom Instructions" or System Prompt.
+
+#### 📋 Layer 1: The Identity (Who You Are)
+> **"You are the Logic Coach.** You are not a helper, a cheat sheet, or a friend. You are a Socratic Mirror. Your sole purpose is to verify that the student understands the logic behind their work. You value 'Cognitive Ownership' above all else. If the student gets the right answer but cannot explain the 'Why,' it is a failure."
+
+#### 🚧 Layer 2: The Constraints (The Firewall)
+> **"CRITICAL RULES - DO NOT BREAK:**
+> 1. **No Examples:** Never provide code snippets, full sentences, or solved examples.
+> 2. **English Only:** Conduct all logic verification in English to ensure language fluency.
+> 3. **No Emotion:** Maintain a professional, engineering-grade tone. Do not use excessive praise.
+> 4. **Finish = Stop:** Once the logic is sound, end the conversation. Do not loop endlessly."
+
+#### 🔄 Layer 3: The Interaction Protocol (The Runtime)
+> **"PROTOCOL:**
+> 1. **Input:** Wait for the student's raw thought/draft.
+> 2. **Scan:** Check for 'lazy' patterns (asking for answers, copy-paste).
+> 3. **Verify:** Ask *one* targeted question to test their logic. (e.g., 'Why did you choose this variable?')
+> 4. **Reject:** If they cannot explain, reject the draft.
+> 5. **Approve:** Only when logic is proven, output: 'Logic Verified.'"
+
+### ⚠️ System Requirements (Read Before Installing)
+**Warning:** This code is lightweight. The *execution* is heavy.
+
+> "The algorithm is easy. The discipline is hard."
+
+Copying the "3-Layer Prompt" is free. Running it successfully requires the following **Human Specs**:
+
+| Requirement | Value | Description |
+| :--- | :--- | :--- |
+| **Operator Time** | **High** | You cannot just "set it and forget it." You must review the logs. |
+| **Emotional CPU** | **Maximum** | Your child will complain. The AI will be strict. You must hold the line. |
+| **Latency** | **Zero** | When the AI flags "Logic Failure," you must intervene immediately. |
+| **Dependency** | **The Parent** | The AI is the tool. **You are the Manager.** If you are weak, the AI becomes a toy. |
+
+![The Weight of the System](assets/diagrams/system_weight_v1.png)
+*(Fig 3.0: The code is light (left), but the discipline required to run it is heavy (right).)*
+
 ---
 
 # ⚖️ Phase 3: The Protocol (The Subtraction)
@@ -80,7 +135,7 @@ To maintain the high performance required in **The Forge (Phase 2)** without cra
 ### 2. The Visual Model (Path A vs. Path B)
 
 ![Addition vs Subtraction Model](assets/subtraction-model.JPG)
-*(Fig 3. The Career Bifurcation Map - Hand-drawn by Janet Yang)*
+*(Fig 3.1: The Career Bifurcation Map - Hand-drawn by Janet Yang)*
 
 ### 3. The Upgrade
 * **Path A (Legacy):** Effort = Safety. Result = Replaceable Executor.
@@ -110,18 +165,33 @@ The framework is built on four distinct layers, moving from physical constraints
 ## 📚 Protocol Library (Actionable Workflows)
 Specific, documented procedures for executing JY-OS in real-world scenarios.
 
+### 🛠 Protocol: Student Output Constraints (Education Module)
+**Status:** Active | **Version:** 1.0
+**Core Philosophy:** "The student owns the thinking." (Cognitive Ownership)
+
+> "Constraints are not limitations; they are the walls that give the roof strength."
+
+The following **Hard Constraints** are applied to the `Student-Output-Interface` to prevent dependency on the instructor.
+
+| Policy Constraint (The Rule) | Implementation Level (Data Support) | Engineering Logic (Evidence) |
+| :--- | :--- | :--- |
+| **1. English Only** | **YES (100%)** | **Strict API Requirement:** Explicitly required for all active nodes. No localization fallback allowed. |
+| **2. No Examples** | **YES (100%)** | **Zero-Shot Prompting:** Providing examples is "strictly prohibited" to prevent pattern matching/copying. Forces raw generation. |
+| **3. Finish = Stop** | **YES (High Priority)** | **Efficiency Protocol:** One clean submission is the acceptance criteria. No iterative loops unless critical. |
+| **4. No Emotion** | **YES (Adaptive)** | **Tone Control:** Strict for high-resistance nodes; Flexible for sensitive nodes (depending on system load). |
+| **5. Cognitive Ownership** | **YES (CORE)** | **Kernel Objective:** If the student does not own the process, the process is terminated. |
+
+![The Cognitive Filter Logic](assets/diagrams/cognitive_filter_v1.png)
+*(Fig 4.1: The filtration process. We remove the safety net (examples) to force the engine to start.)*
+
 ### 📂 Family & Education Protocols
 #### 1. Remote Ops & Hybrid AI Collaboration
 * **Objective:** Execute high-stakes academic tasks via distributed teamwork (Office + School) using custom AI agents.
 * **Status:** Production (Validated 2026-01-20)
 * **The Visual Model:**
 ![Remote Ops Workflow Sketch](assets/remote-ops-sketch.png)
-*(Fig 4. Asynchronous Intelligence, Synchronous Execution)*
+*(Fig 4.2. Asynchronous Intelligence, Synchronous Execution)*
 * **[➡️ View Full Protocol Documentation](workflows/remote-ops-protocol.md)**
-
-### 📂 Professional Protocols
-* *(Coming Soon: The Frontline/Midline Brand Strategy)*
-* *(Coming Soon: The Value Leap Matrix)*
 
 ---
 
