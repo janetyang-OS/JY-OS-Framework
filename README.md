@@ -187,7 +187,7 @@ The following **Hard Constraints** are applied to the `Student-Output-Interface`
 * **Objective:** Execute high-stakes academic tasks via distributed teamwork (Office + School) using custom AI agents.
 * **Status:** Production (Validated 2026-01-20)
 * **The Visual Model:**
-*(Image pending upload: `assets/remote-ops-sketch.png`)*
+* **The Visual Model:** ![Remote Ops Sketch](assets/remote-ops-sketch.png)
 * **[➡️ View Full Protocol Documentation](workflows/remote-ops-protocol.md)**
 
 ---
