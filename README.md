@@ -192,6 +192,12 @@ The following **Hard Constraints** are applied to the `Student-Output-Interface`
 
 ---
 
+#### 2. The Learning Topology (System Architecture)
+* **Objective:** Visualizing the command structure between The Child, The Parent, and The AI Swarm.
+* **Concept:** "The Driver (Child) vs. The Navigator (AI)."
+* **The Visual Model:**
+    ![Logan Learning Map](assets/logan_learning_map.jpg)
+* **[➡️ View Full Architecture Breakdown](workflows/family_learning_topology.md)**
 ## 🚀 The Goal: Escape Velocity
 The ultimate metric of JY-OS is not productivity, but **Civilizational Escape Velocity**. It is the ability of an individual (or family) to generate enough cognitive momentum to break free from the gravity of the Legacy OS and enter a new trajectory of self-evolution.
 
