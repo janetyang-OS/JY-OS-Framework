@@ -152,8 +152,11 @@ The framework is built on four distinct layers, moving from physical constraints
 ### Layer 2: Firewall (Cognitive Security)
 * **The Solution:** A "Cognitive Firewall" that filters input to protect deep thinking and prevent energy leakage.
 
-### Layer 3: Interface (Orchestration Matrix)
-* **The Solution:** Moving from "using" AI to "commanding" a matrix of 6 personalities (The Spark, Deep Diver, Radar, Architect, Critic, Executor).
+### Layer 3: Interface (The Personal General Staff)
+* **The Solution:** Moving from "using" AI to "commanding" a fleet of 13 specialized agents.
+* **The Architecture:** 3 Defense Layers (Tactical, Deep Dive, Audit).
+    ![13-Agent System](assets/logan-13-agents-architecture.jpg)
+* **[➡️ View The Full 13-Agent Blueprint](workflows/personal_general_staff.md)**
 
 ### Layer 4: Runtime (The Super-Individual)
 * **The Solution:** The daily behavioral loops and "Family OS" protocols that allow an individual to evolve faster than the environment changes.
