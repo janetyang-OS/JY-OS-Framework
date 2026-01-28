@@ -206,6 +206,8 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
+* **The Strategy:**
+    ![Logan's Climb Roadmap](assets/logan-climb-roadmap.jpg)
 * **[➡️ View Logan's 5-Stage Evolution](workflows/civilization_roadmap.md)**
 
 ### 2. The Parent's Path (The Architect)
@@ -213,7 +215,6 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Strategy:** Avoiding the "Declining Path" of obsolescence.
     ![Janet's Path Roadmap](assets/janet-path-roadmap.jpg)
 * **[➡️ View Janet's Evolution Strategy](workflows/parent_civilization_roadmap.md)**
-
 ---
 
 ## 🧬 About the Architect
