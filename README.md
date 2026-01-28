@@ -201,13 +201,18 @@ The following **Hard Constraints** are applied to the `Student-Output-Interface`
 * **The Visual Model:**
     ![Logan Learning Map](assets/logan_learning_map.jpg)
 * **[➡️ View Full Architecture Breakdown](workflows/family_learning_topology.md)**
-## 🚀 The Goal: The 10-Year Roadmap (Civilization Native)
-The ultimate metric of JY-OS is not just "efficiency," but preparing the next generation for **2036**. We are building a "Civilization Native."
+## 🚀 The Dual Roadmap: Civilization Upgrade (2026-2036)
+The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achieve Escape Velocity.
 
-* **The Timeline:** 2026 (Now) $\rightarrow$ 2030 (Agent Economy) $\rightarrow$ 2036 (New Civ).
-* **The Strategy:**
-    ![Logan's Climb Roadmap](assets/logan-climb-roadmap.jpg)
-* **[➡️ View The Full 5-Stage Evolution Plan](workflows/civilization_roadmap.md)**
+### 1. The Child's Path (The Pilot)
+* **Goal:** From Student $\rightarrow$ Civilization Native.
+* **[➡️ View Logan's 5-Stage Evolution](workflows/civilization_roadmap.md)**
+
+### 2. The Parent's Path (The Architect)
+* **Goal:** From Legacy Worker $\rightarrow$ System Leader.
+* **The Strategy:** Avoiding the "Declining Path" of obsolescence.
+    ![Janet's Path Roadmap](assets/janet-path-roadmap.jpg)
+* **[➡️ View Janet's Evolution Strategy](workflows/parent_civilization_roadmap.md)**
 
 ---
 
