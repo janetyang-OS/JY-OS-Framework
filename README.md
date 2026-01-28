@@ -204,6 +204,14 @@ The following **Hard Constraints** are applied to the `Student-Output-Interface`
 ## 🚀 The Dual Roadmap: Civilization Upgrade (2026-2036)
 The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achieve Escape Velocity.
 
+--
+
+#### 3. The Adult OS Upgrade (Server Maintenance)
+* **Objective:** Debugging the parent's behavior to ensure the "Family Server" is running the correct architecture.
+* **Concept:** "Digital Serf vs. Future Architect."
+* **The Visual Model:**
+    ![AI Adult Quadrants](assets/ai-adult-quadrants.jpg)
+* **[➡️ View Full Diagnosis & Protocol](workflows/adult_ai_architecture.md)**
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
 * **The Strategy:**
