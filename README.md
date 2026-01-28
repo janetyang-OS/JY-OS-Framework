@@ -186,14 +186,12 @@ The following **Hard Constraints** are applied to the `Student-Output-Interface`
 *(Fig 4.1: The filtration process. We remove the safety net (examples) to force the engine to start.)*
 
 ### 📂 Family & Education Protocols
+
 #### 1. Remote Ops & Hybrid AI Collaboration
 * **Objective:** Execute high-stakes academic tasks via distributed teamwork (Office + School) using custom AI agents.
 * **Status:** Production (Validated 2026-01-20)
-* **The Visual Model:**
 * **The Visual Model:** ![Remote Ops Sketch](assets/remote-ops-sketch.png)
 * **[➡️ View Full Protocol Documentation](workflows/remote-ops-protocol.md)**
-
----
 
 #### 2. The Learning Topology (System Architecture)
 * **Objective:** Visualizing the command structure between The Child, The Parent, and The AI Swarm.
@@ -201,10 +199,6 @@ The following **Hard Constraints** are applied to the `Student-Output-Interface`
 * **The Visual Model:**
     ![Logan Learning Map](assets/logan_learning_map.jpg)
 * **[➡️ View Full Architecture Breakdown](workflows/family_learning_topology.md)**
-## 🚀 The Dual Roadmap: Civilization Upgrade (2026-2036)
-The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achieve Escape Velocity.
-
---
 
 #### 3. The Adult OS Upgrade (Server Maintenance)
 * **Objective:** Debugging the parent's behavior to ensure the "Family Server" is running the correct architecture.
@@ -212,6 +206,19 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Visual Model:**
     ![AI Adult Quadrants](assets/ai-adult-quadrants.jpg)
 * **[➡️ View Full Diagnosis & Protocol](workflows/adult_ai_architecture.md)**
+
+#### 4. The Learner's Coordinate System (Client Execution)
+* **Objective:** A predictive model for student success based on "Initiative" and "Consistency."
+* **Concept:** "The Climber vs. The Hamster."
+* **The Visual Model:**
+    ![Learner Quadrants](assets/learner-quadrants.jpg)
+* **[➡️ View Full Diagnosis & Protocol](workflows/learner_quadrants.md)**
+
+---
+
+## 🚀 The Dual Roadmap: Civilization Upgrade (2026-2036)
+The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achieve Escape Velocity.
+
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
 * **The Strategy:**
@@ -223,6 +230,7 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Strategy:** Avoiding the "Declining Path" of obsolescence.
     ![Janet's Path Roadmap](assets/janet-path-roadmap.jpg)
 * **[➡️ View Janet's Evolution Strategy](workflows/parent_civilization_roadmap.md)**
+
 ---
 
 ## 🧬 About the Architect
