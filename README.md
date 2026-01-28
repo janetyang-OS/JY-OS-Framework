@@ -201,8 +201,13 @@ The following **Hard Constraints** are applied to the `Student-Output-Interface`
 * **The Visual Model:**
     ![Logan Learning Map](assets/logan_learning_map.jpg)
 * **[➡️ View Full Architecture Breakdown](workflows/family_learning_topology.md)**
-## 🚀 The Goal: Escape Velocity
-The ultimate metric of JY-OS is not productivity, but **Civilizational Escape Velocity**. It is the ability of an individual (or family) to generate enough cognitive momentum to break free from the gravity of the Legacy OS and enter a new trajectory of self-evolution.
+## 🚀 The Goal: The 10-Year Roadmap (Civilization Native)
+The ultimate metric of JY-OS is not just "efficiency," but preparing the next generation for **2036**. We are building a "Civilization Native."
+
+* **The Timeline:** 2026 (Now) $\rightarrow$ 2030 (Agent Economy) $\rightarrow$ 2036 (New Civ).
+* **The Strategy:**
+    ![Logan's Climb Roadmap](assets/logan-climb-roadmap.jpg)
+* **[➡️ View The Full 5-Stage Evolution Plan](workflows/civilization_roadmap.md)**
 
 ---
 
