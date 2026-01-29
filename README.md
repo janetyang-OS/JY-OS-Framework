@@ -1,11 +1,29 @@
-# JY-OS Framework (v2.3)
+# JY-OS Framework (v2.4)
 ### A Modular Operating System for Human Survival & Self-Evolution in the AI Civilization Rift
+
+![Escape Velocity Strategy Map](assets/escape-map.jpg)
 
 > "When the rules change, survival becomes a design problem." — *Janet Yang*
 
-**JY-OS** is not a philosophy; it is an engineering solution to a civilization-level problem. As AI accelerates and information entropy increases, the old human operating system (Legacy OS) is failing. JY-OS provides a full-stack architecture to ensure humans don't just survive the AI era, but achieve "Civilizational Escape Velocity."
+---
 
-![Escape Velocity Strategy Map](assets/escape-map.jpg)
+## 📖 TL;DR (Too Long; Didn't Read)
+**What is this?** An engineering framework to upgrade a human family from "Legacy OS" (School/Office) to "AI-Native OS."
+**Who is this for?**
+* **Parents (Family OS):** Who fear their kids are learning obsolete skills.
+* **Educators (Classroom OS):** Who need a protocol to prevent AI cheating and foster deep thinking.
+* **Individuals (Solo OS):** Who want to avoid becoming "Digital Serfs."
+**Core Value:** We replace "banning AI" with "commanding AI" using strict cognitive protocols.
+
+---
+
+## 📚 Table of Contents
+1.  [🧭 Phase 1: The Destination (Why we do this)](https://github.com/janetyang-OS/JY-OS-Framework#phase-1-the-coordinates-destination)
+2.  [⚙️ Phase 2: The Engine (Cognitive Rewiring)](https://github.com/janetyang-OS/JY-OS-Framework#phase-2-the-engine-the-forge)
+3.  [🧬 The Kernel: 3-Layer Prompt (Source Code)](https://github.com/janetyang-OS/JY-OS-Framework#the-open-source-kernel-v20)
+4.  [🏗 The Architecture: 13-Agent System](https://github.com/janetyang-OS/JY-OS-Framework#layer-3-interface-the-personal-general-staff)
+5.  [📂 Protocol Library (Actionable Workflows)](https://github.com/janetyang-OS/JY-OS-Framework#protocol-library-actionable-workflows)
+6.  [🚀 The 10-Year Roadmap (2026-2036)](https://github.com/janetyang-OS/JY-OS-Framework#the-dual-roadmap-civilization-upgrade-2026-2036)
 
 ---
 
@@ -107,10 +125,6 @@ To create your own AI Coach (like the one running JY-OS), paste the following 3 
 ### ⚠️ System Requirements (Read Before Installing)
 **Warning:** This code is lightweight. The *execution* is heavy.
 
-> "The algorithm is easy. The discipline is hard."
-
-Copying the "3-Layer Prompt" is free. Running it successfully requires the following **Human Specs**:
-
 | Requirement | Value | Description |
 | :--- | :--- | :--- |
 | **Operator Time** | **High** | You cannot just "set it and forget it." You must review the logs. |
@@ -185,6 +199,8 @@ The following **Hard Constraints** are applied to the `Student-Output-Interface`
 ![The Cognitive Filter Logic](assets/cognitive_filter_v1.png)
 *(Fig 4.1: The filtration process. We remove the safety net (examples) to force the engine to start.)*
 
+---
+
 ### 📂 Family & Education Protocols
 
 #### 1. Remote Ops & Hybrid AI Collaboration
@@ -203,6 +219,7 @@ The following **Hard Constraints** are applied to the `Student-Output-Interface`
 #### 3. The Adult OS Upgrade (Server Maintenance)
 * **Objective:** Debugging the parent's behavior to ensure the "Family Server" is running the correct architecture.
 * **Concept:** "Digital Serf vs. Future Architect."
+* **KPI / Metrics:** Frequency of "Deep Work" sessions (Target: 3x/week).
 * **The Visual Model:**
     ![AI Adult Quadrants](assets/ai-adult-quadrants.jpg)
 * **[➡️ View Full Diagnosis & Protocol](workflows/adult_ai_architecture.md)**
@@ -210,6 +227,7 @@ The following **Hard Constraints** are applied to the `Student-Output-Interface`
 #### 4. The Learner's Coordinate System (Client Execution)
 * **Objective:** A predictive model for student success based on "Initiative" and "Consistency."
 * **Concept:** "The Climber vs. The Hamster."
+* **KPI / Metrics:** Daily Logic Logs committed to GitHub (Target: 5 days/week).
 * **The Visual Model:**
     ![Learner Quadrants](assets/learner-quadrants.jpg)
 * **[➡️ View Full Diagnosis & Protocol](workflows/learner_quadrants.md)**
@@ -245,4 +263,4 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 
 > *"I don't just predict the future; I prototype it on Tuesday afternoons with my son."*
 *Logged by Janet Yang, Industry Analyst*
-*Date: 2026-01-21*
+*Date: 2026-01-28*
