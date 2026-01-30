@@ -248,6 +248,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![The Modeling Workflow](assets/modeling-workflow.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/modeling_workflow.md)**
 
+#### 7. The Exam Sprint Protocol (High-Frequency Sparring)
+* **Objective:** Using AI for "High-Frequency Sparring" (160 reps/39 mins) instead of passive review.
+* **Concept:** "The Dojo" (Flow State Activation).
+* **The Visual Model:**
+    ![Exam Sprint Protocol](assets/logan-exam-sprint-protocol.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/logan_exam_sprint.md)**  
+
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
 * **The Strategy:**
