@@ -253,7 +253,14 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **Concept:** "The Dojo" (Flow State Activation).
 * **The Visual Model:**
     ![Exam Sprint Protocol](assets/logan-exam-sprint-protocol.jpg)
-* **[➡️ View Full Protocol Documentation](workflows/logan_exam_sprint.md)**  
+* **[➡️ View Full Protocol Documentation](workflows/logan_exam_sprint.md)**
+
+#### 8. The Cognitive Evolution (Brain Rewiring)
+* **Objective:** Understanding the biological toll of AI adoption ("The Crash") to prevent quitting.
+* **Concept:** "Crash $\rightarrow$ Rewire $\rightarrow$ Upgrade."
+* **The Visual Model:**
+    ![Cognitive Evolution](assets/ai-cognitive-evolution.jpg)
+* **[➡️ View Full Diagnosis & Protocol](workflows/ai_cognitive_evolution.md)**
 
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
