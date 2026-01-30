@@ -232,8 +232,12 @@ The following **Hard Constraints** are applied to the `Student-Output-Interface`
     ![Learner Quadrants](assets/learner-quadrants.jpg)
 * **[➡️ View Full Diagnosis & Protocol](workflows/learner_quadrants.md)**
 
----
-
+#### 5. The Chief Problem Solver Protocol (Intervention)
+* **Objective:** Replacing "Panic & Scolding" with a strategic "Curator Workflow" when facing academic failure.
+* **Concept:** "Human-in-the-Loop Curation."
+* **The Visual Model:**
+    ![Chief Problem Solver Workflow](assets/chief-problem-solver-workflow.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/chief_problem_solver.md)**
 ## 🚀 The Dual Roadmap: Civilization Upgrade (2026-2036)
 The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achieve Escape Velocity.
 
