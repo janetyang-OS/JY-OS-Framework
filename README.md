@@ -262,6 +262,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![Cognitive Evolution](assets/ai-cognitive-evolution.jpg)
 * **[➡️ View Full Diagnosis & Protocol](workflows/ai_cognitive_evolution.md)**
 
+#### 9. The Multi-AI Work System (Professional Orchestration)
+* **Objective:** How to run a "One-Person Department" using ChatGPT, Claude, Gemini, and Perplexity.
+* **Concept:** "Commander vs. User."
+* **The Visual Model:**
+    ![Janet Work System](assets/janet-work-system.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/janet_work_system.md)**  
+
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
 * **The Strategy:**
