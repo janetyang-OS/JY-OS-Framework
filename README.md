@@ -267,7 +267,14 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **Concept:** "Commander vs. User."
 * **The Visual Model:**
     ![Janet Work System](assets/janet-work-system.jpg)
-* **[➡️ View Full Protocol Documentation](workflows/janet_work_system.md)**  
+* **[➡️ View Full Protocol Documentation](workflows/janet_work_system.md)**
+
+#### 10. The Library Effect Workflow (Environment Design)
+* **Objective:** Creating a "Silent Support" field where the child owns the task and AI sets the standard.
+* **Concept:** "Shared Space + AI Validation."
+* **The Visual Model:**
+    ![Library Effect Workflow](assets/library-effect-workflow.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/library_effect_workflow.md)**
 
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
