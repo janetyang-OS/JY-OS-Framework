@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.7] - 2026-01-30
+### 🏟️ Environment & Culture
+-   **Added:** "The Library Effect Workflow" (`workflows/library_effect_workflow.md`).
+-   **Concept:** Documented the physical environment design for "Silent Support."
+-   **Shift:** Replacing "Parental Monitoring" with "AI Validation + Parental Presence."
+
 ## [v2.6] - 2026-01-30
 ### 🧠 Cognitive Architecture & Work Systems
 -   **Added:** "The Cognitive Evolution Protocol" (`workflows/ai_cognitive_evolution.md`).
