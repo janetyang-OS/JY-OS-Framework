@@ -241,6 +241,13 @@ The following **Hard Constraints** are applied to the `Student-Output-Interface`
 ## 🚀 The Dual Roadmap: Civilization Upgrade (2026-2036)
 The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achieve Escape Velocity.
 
+#### 6. The Modeling Workflow (Cognitive Architecture)
+* **Objective:** The meta-protocol for turning "Information Chaos" into "Actionable Models."
+* **Concept:** "Riding the Loop" (Human-AI Recursive Thinking).
+* **The Visual Model:**
+    ![The Modeling Workflow](assets/modeling-workflow.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/modeling_workflow.md)**
+
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
 * **The Strategy:**
