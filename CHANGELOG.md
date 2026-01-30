@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.5] - 2026-01-30
+### 🚀 Protocol Expansion
+-   **Added:** "The Exam Sprint Protocol" (`workflows/logan_exam_sprint.md`).
+-   **Milestone:** Documented first successful "Self-Driving" autonomy test (160 Reps).
+-   **Added:** "Chief Problem Solver" workflow for parental intervention.
+-   **Added:** "Modeling Workflow 2.0" for cognitive structuring.
+
 ## [v2.3] - 2026-01-28
 ### 🚀 Major Feature: The 13-Agent Architecture
 - **Added:** "Personal General Staff" protocol (`workflows/personal_general_staff.md`).
