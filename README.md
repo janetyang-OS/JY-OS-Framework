@@ -325,6 +325,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![The Consolations of Philosophy](assets/consolations-of-philosophy.jpg)
 * **[➡️ View Full Principle Documentation](workflows/philosophy_consolations.md)**
   
+#### 18. The Question Design Matrix (Assessment Engineering)
+* **Objective:** How to design questions that "AI cannot cheat" by forcing multi-turn reasoning.
+* **Concept:** "One-Shot Zone vs. Multi-Turn Zone."
+* **The Visual Model:**
+    ![Question Design Matrix](assets/question-design-matrix.jpg)
+* **[➡️ View Full Principle Documentation](workflows/question_design_matrix.md)**
+  
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
 * **The Strategy:**
