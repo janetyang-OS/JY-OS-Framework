@@ -7,6 +7,10 @@ All notable changes to the JY-OS Framework project will be documented in this fi
 -   **Concept:** Documented the "Master Agent + 30 Individual Agents" model for schools.
 -   **Shift:** Redefined Teacher role from "Instructor" to "Head Coach."
 -   **Visual:** Added the "AI Era Learning Journey" diagram.
+### ⚖️ System Dynamics
+-   **Added:** "The Responsibility Displacement Model" (`workflows/responsibility_displacement.md`).
+-   **Concept:** Documented the inverse relationship between Parental Intervention and Child Ownership.
+-   **Law:** "Responsibility does not disappear; it shifts."   
 
 ## [v2.8] - 2026-02-02
 ### 📉 System Diagnostics
