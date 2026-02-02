@@ -373,6 +373,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Visual Model:**
     ![Constraint Engineering Loop](assets/constraint-engineering-loop.jpg)
 * **[➡️ View Full Architecture Documentation](workflows/constraint_engineering_loop.md)**
+  
+#### 25. The Behavior Metrics Control Layer (Observability)
+* **Objective:** Measuring "Cognitive Health Signals" instead of just grades.
+* **Concept:** "Input (Telemetry) $\rightarrow$ Engine (Diagnosis) $\rightarrow$ Output (Tuning)."
+* **The Visual Model:**
+    ![Behavior Metrics Control Layer](assets/behavior-metrics-control-layer.jpg)
+* **[➡️ View Full Architecture Documentation](workflows/behavior_metrics_control_layer.md)**
 
 ---
 
