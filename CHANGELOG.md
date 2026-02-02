@@ -1,7 +1,14 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
-## [v2.20] - 2026-02-01
+## [v2.21] - 2026-02-02
+### 🎛️ System Control Plane
+-   **Added:** "The Behavior Metrics Control Layer" (`workflows/behavior_metrics_control_layer.md`).
+-   **Architecture:** Completed the "JY-OS Full Stack" (Runtime + Loop + Control Plane).
+-   **Concept:** Shifted from "Emotional Discipline" to "Parameter Tuning."
+-   **Metrics:** Defined key telemetry signals like "Self-Correction Rate" and "Emotional Noise."
+
+## [v2.20] - 2026-02-02
 ### 🔄 System Dynamics (DevOps)
 -   **Added:** "The Constraint Engineering Loop" (`workflows/constraint_engineering_loop.md`).
 -   **Process:** Defined the "Human Behavior CI/CD" pipeline.
