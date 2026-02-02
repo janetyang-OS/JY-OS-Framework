@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.11] - 2026-02-02
+### 📐 System Architecture
+-   **Added:** "Generic vs. Orchestrated AI" (`workflows/generic_vs_orchestrated_ai.md`).
+-   **Principle:** Defined the shift from "User decides next step" to "Flow designed."
+-   **Visual:** Comparison of "Hub-and-Spoke Chatbot" vs. "Orchestrated Pipeline."
+
 ## [v2.10] - 2026-02-02
 ### 🏗️ Structural Analysis
 -   **Added:** "The Content Illusion Pyramid" (`workflows/content_illusion_pyramid.md`).
