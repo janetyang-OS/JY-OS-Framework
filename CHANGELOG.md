@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.24] - 2026-02-02
+### 📉 Strategic Risk Management
+-   **Added:** "Comfort First vs. Capacity First" (`workflows/comfort_vs_capacity.md`).
+-   **Principle:** "Freedom requires skills."
+-   **Visual:** Comparison of "The Wall" (Result of Comfort) vs. "The Slope" (Result of Capacity).
+-   **Insight:** Defined "Resilience Debt"—the cost of removing early friction.
+
 ## [v2.23] - 2026-02-02
 ### 🕹️ System Operations (SysOps)
 -   **Added:** "The JY-OS Control Tower" (`workflows/control_tower.md`).
