@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.12] - 2026-02-02
+### ⚡ Operational Efficiency
+-   **Added:** "The Human Bottleneck Principle" (`workflows/human_bottleneck_principle.md`).
+-   **Principle:** "Let AI handle the busywork."
+-   **Visual:** Comparison of "The Human CPU" (Exhaustion) vs. "AI Support Roles" (Leverage).
+
 ## [v2.11] - 2026-02-02
 ### 📐 System Architecture
 -   **Added:** "Generic vs. Orchestrated AI" (`workflows/generic_vs_orchestrated_ai.md`).
