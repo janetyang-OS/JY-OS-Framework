@@ -351,7 +351,14 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **Concept:** "High Performance × Low Friction."
 * **The Visual Model:**
     ![Logan OS Routine](assets/logan-os-routine.jpg)
-* **[➡️ View Full Protocol Documentation](workflows/logan_os_routine.md)**  
+* **[➡️ View Full Protocol Documentation](workflows/logan_os_routine.md)**
+
+#### 22. The Capability Compass (Tool Selection Logic)
+* **Objective:** Stop asking "Which AI is best" and start asking "What is my task?"
+* **Concept:** "North (Logic), East (Context), South (Empathy), West (Speed)."
+* **The Visual Model:**
+    ![Capability Compass](assets/capability-compass.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/capability_compass.md)**
 
 ---
 
