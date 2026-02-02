@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.9] - 2026-02-02
+### 🏫 Institutional Architecture (B2B)
+-   **Added:** "The 30+1 Agent Architecture" (`workflows/classroom_agent_architecture.md`).
+-   **Concept:** Documented the "Master Agent + 30 Individual Agents" model for schools.
+-   **Shift:** Redefined Teacher role from "Instructor" to "Head Coach."
+-   **Visual:** Added the "AI Era Learning Journey" diagram.
+
 ## [v2.8] - 2026-02-02
 ### 📉 System Diagnostics
 -   **Added:** "The Parental Noise Protocol" (`workflows/parental_friction_protocol.md`).
