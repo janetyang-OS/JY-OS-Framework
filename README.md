@@ -360,6 +360,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![Capability Compass](assets/capability-compass.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/capability_compass.md)**
 
+#### 23. The 3-Layer AI Coach OS (Parent OS Manifesto)
+* **Objective:** The full-stack engineering architecture of the AI system.
+* **Concept:** "Kernel (Constitution) + Engine (Modes) + Runtime (Tasks)."
+* **The Visual Model:**
+    ![AI Coach OS Architecture](assets/ai-coach-os-architecture.jpg)
+* **[➡️ View Full Architecture Documentation](workflows/ai_coach_architecture.md)**
+
 ---
 
 ## 📂 Case Studies: Real-World Applications
