@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.14] - 2026-02-02
+### 📝 Assessment Engineering
+-   **Added:** "The Question Design Matrix" (`workflows/question_design_matrix.md`).
+-   **Principle:** "AI doesn't break education. Weak question design does."
+-   **Method:** Moving assessment from "One-Shot Answers" to "Multi-Turn Modeling."
+
 ## [v2.13] - 2026-02-02
 ### 🛡️ Mental Operating System
 -   **Added:** "The Consolations of Philosophy" (`workflows/philosophy_consolations.md`).
