@@ -346,6 +346,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![The AI Wave Split](assets/ai-wave-split.jpg)
 * **[➡️ View Full Principle Documentation](workflows/ai_wave_split.md)**
 
+#### 21. The Third Option (Daily Routine)
+* **Objective:** Achieving high academic performance without burnout (<30 mins/day).
+* **Concept:** "High Performance × Low Friction."
+* **The Visual Model:**
+    ![Logan OS Routine](assets/logan-os-routine.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/logan_os_routine.md)**  
+
 ---
 
 ## 📂 Case Studies: Real-World Applications
