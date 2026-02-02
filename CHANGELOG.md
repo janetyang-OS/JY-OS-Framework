@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.22] - 2026-02-02
+### 🛠 System Tools (The UI)
+-   **Added:** "The Behavior Debugger Cheat Sheet" (`workflows/behavior_debugger.md`).
+-   **Tool:** Provided a 5-column lookup table for troubleshooting common behavior issues.
+-   **Translation:** Mapped "Emotional Complaints" (Laziness, Drama) to "Engineering Diagnostics" (Friction, Noise).
+-   **Action:** Defined specific "Tuning Knobs" for parents to adjust.
+
 ## [v2.21] - 2026-02-02
 ### 🎛️ System Control Plane
 -   **Added:** "The Behavior Metrics Control Layer" (`workflows/behavior_metrics_control_layer.md`).
