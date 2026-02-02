@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.10] - 2026-02-02
+### 🏗️ Structural Analysis
+-   **Added:** "The Content Illusion Pyramid" (`workflows/content_illusion_pyramid.md`).
+-   **Observation:** Documented the "Content Trap" in the AI era.
+-   **Principle:** "More content does not fix structural problems."
+
 ## [v2.9] - 2026-02-02
 ### 🏫 Institutional Architecture (B2B)
 -   **Added:** "The 30+1 Agent Architecture" (`workflows/classroom_agent_architecture.md`).
