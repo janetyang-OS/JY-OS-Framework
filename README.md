@@ -276,6 +276,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![Library Effect Workflow](assets/library-effect-workflow.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/library_effect_workflow.md)**
 
+#### 11. The Parental Noise Protocol (Intervention Logic)
+* **Objective:** Visualizing how "Parental Micromanagement" flatlines a child's growth curve.
+* **Concept:** "Architecture Intervention vs. Task Intervention."
+* **The Visual Model:**
+    ![Parental Friction Graph](assets/parental-friction-graph.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/parental_friction_protocol.md)**  
+
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
 * **The Strategy:**
