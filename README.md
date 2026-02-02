@@ -281,7 +281,14 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **Concept:** "Architecture Intervention vs. Task Intervention."
 * **The Visual Model:**
     ![Parental Friction Graph](assets/parental-friction-graph.jpg)
-* **[➡️ View Full Protocol Documentation](workflows/parental_friction_protocol.md)**  
+* **[➡️ View Full Protocol Documentation](workflows/parental_friction_protocol.md)**
+
+#### 12. The 30+1 Agent Architecture (Classroom OS)
+* **Objective:** Solving the "1 Teacher vs. 30 Students" bandwidth problem.
+* **Concept:** "Teacher as Head Coach" (B2B / Institutional Model).
+* **The Visual Model:**
+    ![Classroom Architecture](assets/classroom-30-plus-1-arch.jpg)
+* **[➡️ View Full Architecture Documentation](workflows/classroom_agent_architecture.md)**
 
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
