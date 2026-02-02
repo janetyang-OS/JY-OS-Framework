@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.13] - 2026-02-02
+### 🛡️ Mental Operating System
+-   **Added:** "The Consolations of Philosophy" (`workflows/philosophy_consolations.md`).
+-   **Principle:** Documented 6 cognitive reframes for anxiety, unpopularity, and hardship.
+-   **Concept:** Philosophy as "Mental Self-Defense" for the System Operator.
+
 ## [v2.12] - 2026-02-02
 ### ⚡ Operational Efficiency
 -   **Added:** "The Human Bottleneck Principle" (`workflows/human_bottleneck_principle.md`).
