@@ -317,6 +317,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Visual Model:**
     ![Human Bottleneck vs AI Support](assets/human-bottleneck-vs-ai-support.jpg)
 * **[➡️ View Full Principle Documentation](workflows/human_bottleneck_principle.md)**
+
+#### 17. The Consolations of Philosophy (Mental Self-Defense)
+* **Objective:** A diagnostic map for handling internal "System Crashes" (Anxiety, Ego, Fear).
+* **Concept:** "Show the Problem $\rightarrow$ Tell the Reframe."
+* **The Visual Model:**
+    ![The Consolations of Philosophy](assets/consolations-of-philosophy.jpg)
+* **[➡️ View Full Principle Documentation](workflows/philosophy_consolations.md)**
   
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
