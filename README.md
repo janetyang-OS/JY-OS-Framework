@@ -303,7 +303,14 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Visual Model:**
     ![Content Illusion Pyramid](assets/content-illusion-pyramid.jpg)
 * **[➡️ View Full Principle Documentation](workflows/content_illusion_pyramid.md)**
-
+  
+#### 15. Generic vs. Orchestrated AI (Architecture Logic)
+* **Objective:** Visualizing the difference between "Chatting with AI" and "Building an AI System."
+* **Concept:** "Roles defined. Flow designed."
+* **The Visual Model:**
+    ![Generic vs. Orchestrated AI](assets/generic-vs-orchestrated-ai.jpg)
+* **[➡️ View Full Principle Documentation](workflows/generic_vs_orchestrated_ai.md)**
+  
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
 * **The Strategy:**
