@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.17] - 2026-02-02
+### 🔋 System Sustainability
+-   **Added:** "The Third Option Protocol" (`workflows/logan_os_routine.md`).
+-   **Routine:** Documented the "Weekday Leverage" vs. "Weekend Recharge" cycle.
+-   **Concept:** Reframed gaming and sleep as "Human OS Maintenance."
+-   **Metric:** Documented the "<30 Minutes Daily Study" efficiency benchmark.
+
 ## [v2.16] - 2026-02-02
 ### 🔭 Strategic Foresight
 -   **Added:** "The AI Wave Split Principle" (`workflows/ai_wave_split.md`).
