@@ -395,6 +395,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![JY-OS Control Tower](assets/jy-os-control-tower.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/control_tower.md)**
 
+#### 28. Comfort First vs. Capacity First (Risk Management)
+* **Objective:** Visualizing the long-term cost of removing friction.
+* **Concept:** "Resilience Debt (The Wall) vs. Capacity Building (The Slope)."
+* **The Visual Model:**
+    ![Comfort vs. Capacity](assets/comfort-vs-capacity.jpg)
+* **[➡️ View Full Principle Documentation](workflows/comfort_vs_capacity.md)**
+
 ---
 
 ## 📂 Case Studies: Real-World Applications
