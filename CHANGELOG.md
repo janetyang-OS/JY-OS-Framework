@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.16] - 2026-02-02
+### 🔭 Strategic Foresight
+-   **Added:** "The AI Wave Split Principle" (`workflows/ai_wave_split.md`).
+-   **Prediction:** "AI doesn't replace students. It splits them."
+-   **Taxonomy:** Defined the divergence between "Operators" (Prompt Users) and "Commanders" (System Thinkers).
+-   **Tool:** Added the "Home Checklist" for daily path correction.
+
 ## [v2.15] - 2026-02-02
 ### 🔗 System Dependency & Reliability
 -   **Added:** "The Chain Test Principle" (`workflows/chain_test_principle.md`).
