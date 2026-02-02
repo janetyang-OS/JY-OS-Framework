@@ -290,6 +290,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![Classroom Architecture](assets/classroom-30-plus-1-arch.jpg)
 * **[➡️ View Full Architecture Documentation](workflows/classroom_agent_architecture.md)**
 
+#### 13. The Responsibility Displacement Model (System Law)
+* **Objective:** Visualizing why "Helping" often leads to "Dependency."
+* **Concept:** "The Law of Conservation of Responsibility."
+* **The Visual Model:**
+    ![Responsibility Displacement Model](assets/responsibility-displacement-model.jpg)
+* **[➡️ View Full Principle Documentation](workflows/responsibility_displacement.md)**
+
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
 * **The Strategy:**
