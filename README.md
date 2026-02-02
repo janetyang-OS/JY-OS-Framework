@@ -366,6 +366,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Visual Model:**
     ![AI Coach OS Architecture](assets/ai-coach-os-architecture.jpg)
 * **[➡️ View Full Architecture Documentation](workflows/ai_coach_architecture.md)**
+  
+#### 24. The Constraint Engineering Loop (Behavior CI/CD)
+* **Objective:** How to turn "Bad Behavior" into "System Constraints" using a feedback loop.
+* **Concept:** "Observe $\rightarrow$ Abstract $\rightarrow$ Encode $\rightarrow$ Deploy."
+* **The Visual Model:**
+    ![Constraint Engineering Loop](assets/constraint-engineering-loop.jpg)
+* **[➡️ View Full Architecture Documentation](workflows/constraint_engineering_loop.md)**
 
 ---
 
