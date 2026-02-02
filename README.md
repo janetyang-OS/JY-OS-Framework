@@ -345,6 +345,15 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Visual Model:**
     ![The AI Wave Split](assets/ai-wave-split.jpg)
 * **[➡️ View Full Principle Documentation](workflows/ai_wave_split.md)**
+
+---
+
+## 📂 Case Studies: Real-World Applications
+*Real-time documentation of the system in action.*
+
+* **[🌱 Logan's GitHub Journey (The Seed Phase)](case_studies/logan_digital_footprint.md)**
+    * **Observation:** How a 13-year-old starts building his digital footprint.
+    * **Highlight:** The `Stressful-day` repository as a tool for emotional processing.
   
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
