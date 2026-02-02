@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.15] - 2026-02-02
+### 🔗 System Dependency & Reliability
+-   **Added:** "The Chain Test Principle" (`workflows/chain_test_principle.md`).
+-   **Concept:** Defined "Cascading Failure" in educational assessment.
+-   **Distinction:** Separated "Math Errors" (Fixable) from "Spec Errors" (Fatal).
+-   **Insight:** "Not hard math. Hard spec."
+
 ## [v2.14] - 2026-02-02
 ### 📝 Assessment Engineering
 -   **Added:** "The Question Design Matrix" (`workflows/question_design_matrix.md`).
