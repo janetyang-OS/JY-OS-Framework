@@ -332,6 +332,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![Question Design Matrix](assets/question-design-matrix.jpg)
 * **[➡️ View Full Principle Documentation](workflows/question_design_matrix.md)**
   
+#### 19. The Chain Test (System Dependency)
+* **Objective:** Understanding "Cascading Failure" in assessments where questions are linked.
+* **Concept:** "Math Error (Soft Fail) vs. Spec Error (Hard Fail)."
+* **The Visual Model:**
+    ![Chain Test Failure](assets/chain-test-failure.jpg)
+* **[➡️ View Full Principle Documentation](workflows/chain_test_principle.md)**
+  
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
 * **The Strategy:**
