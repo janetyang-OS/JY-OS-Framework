@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.8] - 2026-02-02
+### 📉 System Diagnostics
+-   **Added:** "The Parental Noise Protocol" (`workflows/parental_friction_protocol.md`).
+-   **Concept:** "Intervention belongs at the Architecture level, not the Task level."
+-   **Visual:** Mapped the "Cognitive Gap & Parental Noise" graph (Group Alpha vs. Beta).
+
 ## [v2.7] - 2026-01-30
 ### 🏟️ Environment & Culture
 -   **Added:** "The Library Effect Workflow" (`workflows/library_effect_workflow.md`).
