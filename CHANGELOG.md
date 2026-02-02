@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.20] - 2026-02-01
+### 🔄 System Dynamics (DevOps)
+-   **Added:** "The Constraint Engineering Loop" (`workflows/constraint_engineering_loop.md`).
+-   **Process:** Defined the "Human Behavior CI/CD" pipeline.
+-   **Method:** Documented the technique of abstracting emotional complaints into engineering constraints.
+-   **Philosophy:** "Don't control the child. Control the system."
+
 ## [v2.19] - 2026-02-02
 ### 🏗 System Architecture (The Kernel)
 -   **Added:** "The 3-Layer AI Coach OS" (`workflows/ai_coach_architecture.md`).
