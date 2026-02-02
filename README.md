@@ -381,6 +381,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![Behavior Metrics Control Layer](assets/behavior-metrics-control-layer.jpg)
 * **[➡️ View Full Architecture Documentation](workflows/behavior_metrics_control_layer.md)**
 
+#### 26. The Behavior Debugger (System UI)
+* **Objective:** A cheat sheet to translate "Parent Complaints" into "Engineering Constraints."
+* **Concept:** "Don't control the child. Debug the system."
+* **The Visual Model:**
+    ![Behavior Debugger Cheat Sheet](assets/behavior-debugger-cheat-sheet.jpg)
+* **[➡️ View Full Tool Documentation](workflows/behavior_debugger.md)**
+
 ---
 
 ## 📂 Case Studies: Real-World Applications
