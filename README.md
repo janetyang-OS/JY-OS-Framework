@@ -338,6 +338,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Visual Model:**
     ![Chain Test Failure](assets/chain-test-failure.jpg)
 * **[➡️ View Full Principle Documentation](workflows/chain_test_principle.md)**
+
+#### 20. The AI Wave Split (Evolutionary Trajectory)
+* **Objective:** Visualizing how "Comfort" vs. "Hardship" in AI use creates two different species of learners.
+* **Concept:** "Operator (Tool User) vs. Commander (System Thinker)."
+* **The Visual Model:**
+    ![The AI Wave Split](assets/ai-wave-split.jpg)
+* **[➡️ View Full Principle Documentation](workflows/ai_wave_split.md)**
   
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
