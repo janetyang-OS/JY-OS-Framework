@@ -310,6 +310,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Visual Model:**
     ![Generic vs. Orchestrated AI](assets/generic-vs-orchestrated-ai.jpg)
 * **[➡️ View Full Principle Documentation](workflows/generic_vs_orchestrated_ai.md)**
+
+#### 16. The Human Bottleneck (Operational Efficiency)
+* **Objective:** Visualizing why "Doing it all" is a structural failure, not a lack of effort.
+* **Concept:** "Let AI handle the busywork."
+* **The Visual Model:**
+    ![Human Bottleneck vs AI Support](assets/human-bottleneck-vs-ai-support.jpg)
+* **[➡️ View Full Principle Documentation](workflows/human_bottleneck_principle.md)**
   
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
