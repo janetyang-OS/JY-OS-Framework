@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.19] - 2026-02-02
+### 🏗 System Architecture (The Kernel)
+-   **Added:** "The 3-Layer AI Coach OS" (`workflows/ai_coach_architecture.md`).
+-   **Architecture:** Defined the "Behavior Kernel" (Layer 1), "Mode Engine" (Layer 2), and "Task Runtime" (Layer 3).
+-   **Concept:** Introduced "Cognitive Ownership Protection" as a security protocol.
+-   **Role:** Defined the Parent as "Layer 0 Orchestrator."
+
 ## [v2.17] - 2026-02-02
 ### 🔋 System Sustainability
 -   **Added:** "The Third Option Protocol" (`workflows/logan_os_routine.md`).
