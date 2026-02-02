@@ -296,6 +296,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Visual Model:**
     ![Responsibility Displacement Model](assets/responsibility-displacement-model.jpg)
 * **[➡️ View Full Principle Documentation](workflows/responsibility_displacement.md)**
+  
+#### 14. The Content Illusion Pyramid (Structural Analysis)
+* **Objective:** Visualizing why adding more "AI Content" to a broken process leads to system collapse.
+* **Concept:** "Content vs. Architecture."
+* **The Visual Model:**
+    ![Content Illusion Pyramid](assets/content-illusion-pyramid.jpg)
+* **[➡️ View Full Principle Documentation](workflows/content_illusion_pyramid.md)**
 
 ### 1. The Child's Path (The Pilot)
 * **Goal:** From Student $\rightarrow$ Civilization Native.
