@@ -387,6 +387,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Visual Model:**
     ![Behavior Debugger Cheat Sheet](assets/behavior-debugger-cheat-sheet.jpg)
 * **[➡️ View Full Tool Documentation](workflows/behavior_debugger.md)**
+  
+#### 27. The JY-OS Control Tower (System Operations)
+* **Objective:** Defining the parent's role as "Air Traffic Controller" (Decision Core).
+* **Concept:** "Separating the Rule Maker (Parent) from the Rule Enforcer (System)."
+* **The Visual Model:**
+    ![JY-OS Control Tower](assets/jy-os-control-tower.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/control_tower.md)**
 
 ---
 
