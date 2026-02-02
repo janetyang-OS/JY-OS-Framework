@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.23] - 2026-02-02
+### 🕹️ System Operations (SysOps)
+-   **Added:** "The JY-OS Control Tower" (`workflows/control_tower.md`).
+-   **Role:** Defined the parent as "Airspace Manager" (Decision Core).
+-   **Method:** Documented the "Load Balancing" technique—dynamically adjusting difficulty based on emotional telemetry.
+-   **Insight:** "Don't fly the plane; manage the airspace."
+
 ## [v2.22] - 2026-02-02
 ### 🛠 System Tools (The UI)
 -   **Added:** "The Behavior Debugger Cheat Sheet" (`workflows/behavior_debugger.md`).
