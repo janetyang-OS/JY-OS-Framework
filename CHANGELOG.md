@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.26] - 2026-02-04
+### 🧬 System Evolution
+-   **Added:** "The Iteration Spiral" (`workflows/active_living_iteration.md`).
+-   **Concept:** Defined "Defensive Living" as running on Legacy Code.
+-   **Mechanism:** Introduced the 3-step loop (AI $\rightarrow$ Skill $\rightarrow$ Philosophy) to trigger evolution.
+-   **Goal:** Shift from "Maintenance Mode" to "Future-focused Curiosity."
+
 ## [v2.25] - 2026-02-04
 ### 🔋 Operator Maintenance
 -   **Added:** "The Stoic Filter" (`workflows/stoic_filter.md`).
