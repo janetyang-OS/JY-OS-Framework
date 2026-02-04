@@ -408,6 +408,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Visual Model:**
     ![The Stoic Filter](assets/stoic-filter.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/stoic_filter.md)**
+  
+#### 30. The Iteration Spiral (System Evolution)
+* **Objective:** Moving from "Defensive Living" (Maintenance) to "Active Living" (Agile).
+* **Concept:** "AI Conversation $\rightarrow$ Skill Update $\rightarrow$ Philosophy Reflection."
+* **The Visual Model:**
+    ![The Iteration Spiral](assets/active-living-spiral.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/active_living_iteration.md)**
 
 ---
 
