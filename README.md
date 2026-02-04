@@ -430,6 +430,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![The System State Matrix](assets/system-state-matrix.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/system_state_matrix.md)**
 
+#### 33. The Civilization Fault Line (Cognitive Safety)
+* **Objective:** Identifying the "Cognitive Ceiling" that separates AI Survivors from AI Victims.
+* **Concept:** "The Red Zone (Amplified Chaos) vs. The Green Zone (Modeling)."
+* **The Visual Model:**
+    ![AI Garbage Civilization Map](assets/ai-garbage-civilization-map.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/civilization_fault_line.md)**
+
 ---
 
 ## 📂 Case Studies: Real-World Applications
