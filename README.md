@@ -423,6 +423,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![The Purple Dye Hierarchy](assets/purple-dye-hierarchy.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/value_hierarchy_protection.md)**
 
+#### 32. The System State Matrix (Diagnostics)
+* **Objective:** Identifying which "Operating Mode" you are currently living in.
+* **Concept:** "Internal Evolution vs. External Pressure."
+* **The Visual Model:**
+    ![The System State Matrix](assets/system-state-matrix.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/system_state_matrix.md)**
+
 ---
 
 ## 📂 Case Studies: Real-World Applications
