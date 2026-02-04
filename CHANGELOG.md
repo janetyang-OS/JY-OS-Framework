@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.27] - 2026-02-05
+### 💎 System Integrity
+-   **Added:** "The Purple Dye Protocol" (`workflows/value_hierarchy_protection.md`).
+-   **Concept:** Defined the "Value Stack" (Stoic Hierarchy).
+-   **Rule:** Established the "Illegal Transaction" rule—never trade Top Layer (Virtue) for Middle Layer (KPIs).
+-   **Metric:** "Am I cashing out, or am I fading out?"
+
 ## [v2.26] - 2026-02-04
 ### 🧬 System Evolution
 -   **Added:** "The Iteration Spiral" (`workflows/active_living_iteration.md`).
