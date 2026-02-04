@@ -416,6 +416,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![The Iteration Spiral](assets/active-living-spiral.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/active_living_iteration.md)**
 
+#### 31. The Purple Dye Protocol (System Integrity)
+* **Objective:** Preventing the "Illegal Transaction" of trading character for temporary gain.
+* **Concept:** "The Hierarchy: Discarded vs. Preferred Indifferents vs. Non-negotiables."
+* **The Visual Model:**
+    ![The Purple Dye Hierarchy](assets/purple-dye-hierarchy.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/value_hierarchy_protection.md)**
+
 ---
 
 ## 📂 Case Studies: Real-World Applications
