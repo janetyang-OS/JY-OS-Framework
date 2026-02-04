@@ -402,6 +402,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![Comfort vs. Capacity](assets/comfort-vs-capacity.jpg)
 * **[➡️ View Full Principle Documentation](workflows/comfort_vs_capacity.md)**
 
+#### 29. The Stoic Filter (Operator Maintenance)
+* **Objective:** Preventing system burnout by sanitizing inputs based on the "Control Dichotomy."
+* **Concept:** "The Funnel: Distilling Strength vs. Exhausting Noise."
+* **The Visual Model:**
+    ![The Stoic Filter](assets/stoic-filter.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/stoic_filter.md)**
+
 ---
 
 ## 📂 Case Studies: Real-World Applications
