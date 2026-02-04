@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.29] - 2026-02-04
+### ☣️ Civilization Strategy
+-   **Added:** "The Civilization Fault Line" (`workflows/civilization_fault_line.md`).
+-   **Risk:** Identified "Cognitive Exhaustion" caused by AI amplifying fragmented inputs.
+-   **Metric:** Defined the distinction between "Passive Reception" (L1) and "Deep Collaboration" (L7).
+-   **Goal:** Move the Operator from the "Red Zone" (Garbage Flood) to the "Green Zone" (Modeling).
+
 ## [v2.28] - 2026-02-04
 ### 📊 System Diagnostics
 -   **Added:** "The System State Matrix" (`workflows/system_state_matrix.md`).
