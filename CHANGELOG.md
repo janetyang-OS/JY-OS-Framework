@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.25] - 2026-02-04
+### 🔋 Operator Maintenance
+-   **Added:** "The Stoic Filter" (`workflows/stoic_filter.md`).
+-   **Concept:** Applied "Input Sanitization" logic to personal stress management.
+-   **Visual:** The Funnel Diagram distinguishing "Inner Strength" from "Uncontrollable Noise."
+-   **Insight:** "I didn't get younger; I just filtered the world."
+
 ## [v2.24] - 2026-02-02
 ### 📉 Strategic Risk Management
 -   **Added:** "Comfort First vs. Capacity First" (`workflows/comfort_vs_capacity.md`).
