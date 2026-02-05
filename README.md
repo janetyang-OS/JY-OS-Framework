@@ -451,6 +451,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![Environment Beats Instruction](assets/environment-beats-instruction.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/environment_protocol.md)**
 
+#### 36. The 13-Agent AI Staff (Orchestration)
+* **Objective:** Replacing "Vague Instructions" with a "Personal AI General Staff."
+* **Concept:** "Confusion vs. Mission Mode (Target + Dashboard + Agents)."
+* **The Visual Model:**
+    ![The AI General Staff](assets/ai-staff-orchestration.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/ai_staff_orchestration.md)**
+
 ---
 
 ## 📂 Case Studies: Real-World Applications
