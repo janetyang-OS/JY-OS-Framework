@@ -444,6 +444,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![The Energy Focus Protocol](assets/energy-balance-trap.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/energy_focus_protocol.md)**
 
+#### 35. The Environment Protocol (Spatial Design)
+* **Objective:** Replacing verbal nagging with environmental constraints.
+* **Concept:** "The Instruction Trap (Yelling) vs. The Living System (Structure)."
+* **The Visual Model:**
+    ![Environment Beats Instruction](assets/environment-beats-instruction.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/environment_protocol.md)**
+
 ---
 
 ## 📂 Case Studies: Real-World Applications
