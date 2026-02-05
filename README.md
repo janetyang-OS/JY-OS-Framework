@@ -436,6 +436,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **The Visual Model:**
     ![AI Garbage Civilization Map](assets/ai-garbage-civilization-map.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/civilization_fault_line.md)**
+  
+#### 34. The Energy Focus Protocol (Elimination > Balance)
+* **Objective:** replacing the myth of "Work-Life Balance" with "Ruthless Elimination."
+* **Concept:** "The Balance Trap (Crash) vs. The Energy Pool (Focus)."
+* **The Visual Model:**
+    ![The Energy Focus Protocol](assets/energy-balance-trap.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/energy_focus_protocol.md)**
 
 ---
 
