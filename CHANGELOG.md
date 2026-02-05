@@ -1,6 +1,20 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.31] - 2026-02-05
+### 🏠 Infrastructure Design
+-   **Added:** "The Environment Protocol" (`workflows/environment_protocol.md`).
+-   **Diagnosis:** Identified "Verbal Instruction" as a high-friction, low-compliance method.
+-   **Solution:** Implemented "Spatial Constraints" (Charging Hub, Public Zone) to shape behavior.
+-   **Principle:** "Environment beats instruction."
+
+## [v2.30] - 2026-02-05
+### ⚡ System Optimization
+-   **Added:** "The Energy Focus Protocol" (`workflows/energy_focus_protocol.md`).
+-   **Diagnosis:** Identified "The Balance Trap" as System Thrashing (Context Switching).
+-   **Mechanism:** Introduced the "Lexicographical Gate" to reject vanity and noise.
+-   **Metric:** Defined "The Glowing Forehead" as a physical indicator of high system efficiency.
+
 ## [v2.29] - 2026-02-04
 ### ☣️ Civilization Strategy
 -   **Added:** "The Civilization Fault Line" (`workflows/civilization_fault_line.md`).
