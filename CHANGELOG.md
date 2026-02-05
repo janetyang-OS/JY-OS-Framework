@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.32] - 2026-02-05
+### 🤖 AI Orchestration
+-   **Added:** "The 13-Agent AI Staff" (`workflows/ai_staff_orchestration.md`).
+-   **Concept:** Defined "Instruction Mode" as a "Zero Information" system failure.
+-   **Structure:** Outlined the role-based AI team (Math, Sci, GitHub Coach) supporting the child.
+-   **Insight:** "Gamification = Visibility of Growth."
+
 ## [v2.31] - 2026-02-05
 ### 🏠 Infrastructure Design
 -   **Added:** "The Environment Protocol" (`workflows/environment_protocol.md`).
