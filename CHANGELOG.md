@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.35] - 2026-02-10
+### 🧠 Cognitive Kernel (Logic)
+-   **Added:** "The Logic Filters" (`workflows/logic_filters.md`).
+-   **Concept:** Introduced Induction (Bottom-Up) vs. Abduction (Best Explanation).
+-   **Goal:** To prevent the child from becoming a "Slogan Giant" and equip them with "Anti-Hallucination" reasoning skills.
+
 ## [v2.34] - 2026-02-10
 ### 🔭 Founder Philosophy
 -   **Added:** "The Founder's Mental Model" (`workflows/founder_mental_model.md`).
