@@ -458,6 +458,17 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![The AI General Staff](assets/ai-staff-orchestration.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/ai_staff_orchestration.md)**
 
+#### 37. The Learning Engine (Cognitive Reconstruction)
+* **Objective:** Shifting from "Answer-Seeking" to "Pattern-Recognition."
+* **The 4 Pillars:**
+    1.  **Pattern Recognition:** Mistakes are missing patterns, not lack of effort.
+    2.  **Execution Stack:** Understand first (Step 0), Calculate last (Step 3).
+    3.  **Compounding Curve:** Logic builds ability; drilling builds stress.
+    4.  **Explainable Thinking:** IB requires clear reasoning, not just right answers.
+* **The Visual Models:**
+    ![The Learning Engine](assets/learning-execution-stack.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/learning_engine.md)**
+
 ---
 
 ## 📂 Case Studies: Real-World Applications
