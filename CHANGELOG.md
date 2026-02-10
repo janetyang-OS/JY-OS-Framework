@@ -1,6 +1,15 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.33] - 2026-02-10
+### 🧠 Cognitive Kernel (Learning Engine)
+-   **Added:** "The Learning Engine" (`workflows/learning_engine.md`).
+-   **Modules:** Integrated 4 key learning algorithms:
+    1.  **Pattern Recognition:** Defined repeated errors as structural blindness.
+    2.  **Step 0 Latency:** Introduced mandatory pause for problem classification.
+    3.  **Compounding Logic:** Contrasted the "Sunk-Cost Loop" with the "Growth Curve."
+    4.  **Explainable Output:** Aligned with IB standards for structured reasoning.
+
 ## [v2.32] - 2026-02-05
 ### 🤖 AI Orchestration
 -   **Added:** "The 13-Agent AI Staff" (`workflows/ai_staff_orchestration.md`).
