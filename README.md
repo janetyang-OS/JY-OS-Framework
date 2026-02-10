@@ -473,7 +473,7 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
 * **Objective:** Sustaining long-term innovation through "Anchors" and "Evolution."
 * **Concept:** "The J-Curve, The Human Anchor, and The Uncopyable Culture."
 * **The Visual Model:**
-    ![The Founder's Trajectory](assets/founder-trajectory-meaning.jpg)
+    ![The Founder's Trajectory](assets/founder-trajectory-map.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/founder_mental_model.md)**
 
 ---
