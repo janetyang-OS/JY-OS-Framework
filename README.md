@@ -485,6 +485,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![Truth Matrix](assets/logic-truth-matrix.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/logic_filters.md)**
 
+#### 40. The CAP Reading Strategy (Exam Tactics)
+* **Objective:** Replacing "Intuition Guessing" with "Evidence-Based Judgment" for English exams.
+* **Concept:** "The 20-Minute SOP (12+8) and the Evidence QC Gate."
+* **The Visual Model:**
+    ![20-Min SOP](assets/exam-reading-sop.jpg)
+* **[➡️ View Full Protocol Documentation](workflows/exam_reading_protocol.md)**
+
 ---
 
 ## 📂 Case Studies: Real-World Applications
