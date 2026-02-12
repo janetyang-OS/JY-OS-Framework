@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.38] - 2026-02-12
+### 🛡️ Civilization Kernel (The Human Core)
+-   **Added:** "The Human Core Protocol" (`workflows/human_core_protocol.md`).
+-   **Philosophy:** Established "Identity, Judgment, Kindness" as the non-negotiable human assets.
+-   **Pedagogy:** Shifted from "Correction-First" to "Seen-First" education to build psychological safety.
+-   **Vision:** Defined the "Self-Directed Coexistence Human" as the ultimate goal of JY-OS.
+
 ## [v2.37] - 2026-02-12
 ### 📖 Exam Strategy (Tactical)
 -   **Added:** "The CAP Reading Strategy" (`workflows/exam_reading_protocol.md`).
