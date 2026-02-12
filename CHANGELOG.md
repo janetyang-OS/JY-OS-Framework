@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.36] - 2026-02-12
+### 🧠 Logic Architecture Upgrade
+-   **Expanded:** Protocol #39 "The Logic Filters" significantly expanded.
+-   **Added:** Plato's Tripartite Soul (Rational control).
+-   **Added:** The Truth vs. Validity Matrix (Soundness check).
+-   **Added:** The Barber Paradox (System error detection).
+-   **Goal:** To teach the child how to verify "Truth" in an age of generated "Validity."
+
 ## [v2.35] - 2026-02-10
 ### 🧠 Cognitive Kernel (Logic)
 -   **Added:** "The Logic Filters" (`workflows/logic_filters.md`).
