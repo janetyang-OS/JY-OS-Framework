@@ -476,11 +476,13 @@ The ultimate metric of JY-OS is ensuring **both** the Parent and the Child achie
     ![The Founder's Trajectory](assets/founder-7-trajectory-map.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/founder_mental_model.md)**
 
-#### 39. The Logic Filters (Critical Thinking)
-* **Objective:** Distinguishing between "Pattern Matching" (Induction) and "Truth Seeking" (Abduction).
-* **Concept:** "The Black Swan (Induction Risk) vs. The Sherlock Method (Abduction Power)."
+#### 39. The Logic Filters (Critical Thinking Architecture)
+* **Objective:** Building a "Truth Verification System" for the AI era.
+* **Concepts:** * **Plato's Driver:** Rationality vs. Desire.
+    * **The Truth Matrix:** Distinguishing "Valid Logic" from "Sound Argument."
+    * **The Barber Paradox:** Identifying broken questions.
 * **The Visual Model:**
-    ![Abduction Logic](assets/logic-abduction-sherlock.jpg)
+    ![Truth Matrix](assets/logic-truth-matrix.jpg)
 * **[➡️ View Full Protocol Documentation](workflows/logic_filters.md)**
 
 ---
