@@ -30,7 +30,7 @@
 ### The Hidden Map of Pressure
 Society tells us to move Right (Get Rich). But the real goal is to move **Down-Right** (Secure Affluence + Low Mental Pressure).
 
-![The Mental Pressure Map](assets/mental-pressure-map-v1.png)
+![The Mental Pressure Map](assets/mental-pressure-map-v1.jpg)
 
 * **🟥 Top-Right (The Rat Race):** High Wealth, High Pressure. The "Burnout Zone."
 * **🟩 Bottom-Left (Simple Community):** Low Wealth, Low Pressure. The traditional anchor.
