@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.39] - 2026-02-12
+### 🚀 Strategic Kernel (Career)
+-   **Added:** "The 4D Strategy Model" (`workflows/strategy_4d_model.md`).
+-   **Concept:** Defined the evolution from "Linear Competition" (1D) to "Time Compounding" (4D).
+-   **Goal:** To help parents/founders escape the "Ladder Trap" by using AI leverage and creating legacy assets.
+
 ## [v2.38] - 2026-02-12
 ### 🛡️ Civilization Kernel (The Human Core)
 -   **Added:** "The Human Core Protocol" (`workflows/human_core_protocol.md`).
