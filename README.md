@@ -62,11 +62,13 @@ The JY-OS Framework is organized into **4 Layers**, ranging from philosophical s
 * **Objective:** The ultimate safeguard against losing humanity.
 * **The 3 Pillars:** **Identity** (Who you are), **Judgment** (What you choose), **Kindness** (How you treat others).
 * **Key Concept:** "Seen Before Corrected."
-* **Visual:** `assets/human-core-07-next-civilization.jpg`
+* **Visual:**
+![Next Civilization](assets/human-core-07-next-civilization.jpg)
 
 #### [33. The Civilization Fault Line](workflows/civilization_fault_line.md)
 * **Objective:** Identifying the "Cognitive Ceiling" that separates AI Survivors from AI Victims.
-* **Visual:** `assets/ai-garbage-civilization-map.jpg`
+* **Visual:**
+![Civilization Fault Line](assets/ai-garbage-civilization-map.jpg)
 
 ---
 
@@ -76,11 +78,13 @@ The JY-OS Framework is organized into **4 Layers**, ranging from philosophical s
 #### [38. The Founder's Mental Model](workflows/founder_mental_model.md)
 * **Objective:** Sustaining long-term innovation through "Anchors" and "Evolution."
 * **Concept:** The J-Curve, The Human Anchor, and The "OK" State.
-* **Visual:** `assets/founder-7-trajectory-map.jpg`
+* **Visual:**
+![Founder Trajectory](assets/founder-7-trajectory-map.jpg)
 
 #### [31. The Purple Dye Protocol](workflows/value_hierarchy_protection.md)
 * **Objective:** Defining non-negotiable values (Integrity).
-* **Visual:** `assets/purple-dye-hierarchy.jpg`
+* **Visual:**
+![Purple Dye](assets/purple-dye-hierarchy.jpg)
 
 ---
 
@@ -90,16 +94,19 @@ The JY-OS Framework is organized into **4 Layers**, ranging from philosophical s
 #### [39. The Logic Filters (Critical Thinking Architecture)](workflows/logic_filters.md) 🔥
 * **Objective:** Building a "Truth Verification System" to detect AI hallucinations and logic errors.
 * **Concepts:** Plato's Driver, The Truth Matrix (Validity vs. Soundness), The Barber Paradox.
-* **Visual:** `assets/logic-truth-matrix.jpg`
+* **Visual:**
+![Logic Truth Matrix](assets/logic-truth-matrix.jpg)
 
 #### [37. The Learning Engine (Cognitive Reconstruction)](workflows/learning_engine.md)
 * **Objective:** Shifting from "Drilling" to "Pattern Recognition."
 * **Concepts:** Step 0 Latency, The Execution Stack.
-* **Visual:** `assets/learning-execution-stack.jpg`
+* **Visual:**
+![Learning Execution Stack](assets/learning-execution-stack.jpg)
 
 #### [30. The Iteration Spiral](workflows/active_living_iteration.md)
 * **Objective:** Moving from "Defensive Living" to "Active Evolution."
-* **Visual:** `assets/active-living-spiral.jpg`
+* **Visual:**
+![Active Living Spiral](assets/active-living-spiral.jpg)
 
 ---
 
@@ -109,20 +116,24 @@ The JY-OS Framework is organized into **4 Layers**, ranging from philosophical s
 #### [40. The CAP Reading Strategy (Exam Tactics)](workflows/exam_reading_protocol.md) 🆕
 * **Objective:** Replacing "Intuition Guessing" with "Evidence-Based Judgment" for English exams.
 * **Method:** The 20-Minute SOP (12+8) and the QC Gate.
-* **Visual:** `assets/exam-reading-sop.jpg`
+* **Visual:**
+![Reading SOP](assets/exam-reading-sop.jpg)
 
 #### [36. The 13-Agent AI Staff (Orchestration)](workflows/ai_staff_orchestration.md)
 * **Objective:** Commanding a fleet of 13 specialized AI agents (Math, Sci, Meta Coach).
 * **Structure:** 3 Defense Layers (Tactical, Deep Dive, Audit).
-* **Visual:** `assets/logan-13-agents-architecture.jpg`
+* **Visual:**
+![AI Staff Architecture](assets/logan-13-agents-architecture.jpg)
 
 #### [26. The Behavior Debugger (System UI)](workflows/behavior_debugger.md) 🏆
 * **Objective:** A troubleshooting cheat sheet for parents. "Don't scold. Debug the system."
-* **Visual:** `assets/behavior-debugger-cheat-sheet.jpg`
+* **Visual:**
+![Behavior Debugger](assets/behavior-debugger-cheat-sheet.jpg)
 
 #### [35. The Environment Protocol](workflows/environment_protocol.md)
 * **Objective:** Spatial design to enforce behavior (The Charging Hub).
-* **Visual:** `assets/environment-beats-instruction.jpg`
+* **Visual:**
+![Environment Protocol](assets/environment-beats-instruction.jpg)
 
 ---
 
@@ -131,15 +142,18 @@ The JY-OS Framework is organized into **4 Layers**, ranging from philosophical s
 
 #### [34. The Energy Focus Protocol](workflows/energy_focus_protocol.md)
 * **Objective:** Replacing "Work-Life Balance" with "Ruthless Elimination."
-* **Visual:** `assets/energy-balance-trap.jpg`
+* **Visual:**
+![Energy Focus](assets/energy-balance-trap.jpg)
 
 #### [32. The System State Matrix](workflows/system_state_matrix.md)
 * **Objective:** Diagnostics dashboard to identify if you are in "Survival Mode" or "Growth Mode."
-* **Visual:** `assets/system-state-matrix.jpg`
+* **Visual:**
+![System State Matrix](assets/system-state-matrix.jpg)
 
 #### [29. The Stoic Filter](workflows/stoic_filter.md)
 * **Objective:** Sanitizing inputs to prevent emotional energy leakage.
-* **Visual:** `assets/stoic-filter.jpg`
+* **Visual:**
+![Stoic Filter](assets/stoic-filter.jpg)
 
 ---
 
