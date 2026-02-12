@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the JY-OS Framework project will be documented in this file.
 
+## [v2.37] - 2026-02-12
+### 📖 Exam Strategy (Tactical)
+-   **Added:** "The CAP Reading Strategy" (`workflows/exam_reading_protocol.md`).
+-   **Method:** Introduced the "12+8 Minute SOP" for daily reading training.
+-   **Architecture:** Documented the "Factory -> QC -> Weekly Pack" pipeline using 4 key diagrams.
+-   **Goal:** To reduce "Cognitive Friction" in standardized tests.
+
 ## [v2.36] - 2026-02-12
 ### 🧠 Logic Architecture Upgrade
 -   **Expanded:** Protocol #39 "The Logic Filters" significantly expanded.
