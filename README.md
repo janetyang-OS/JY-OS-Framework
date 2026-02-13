@@ -16,7 +16,7 @@ This repository documents the source code for raising a self-directed human in t
     * [➡️ View Protocol](workflows/strategy_4d_model.md)
 * **[#41] The Human Core** (Civilization Defense)
     * *Concept:* The AI Mirror. Transitioning from "Panic" to "Power" through intentional mastery.
-    * [➡️ View Protocol](workflows/Protocol #41: The AI Mirror & Intentional Mastery)
+    * [➡️ View Protocol](workflows/Protocol #41: The AI Mirror & Intentional Mastery.md)
 * **[#38] The Founder's Mental Model** (Long-Term Navigation)
     * *Concept:* The J-Curve, Human Anchors, and the "OK State."
     * [➡️ View Protocol](workflows/founder_mental_model.md)
