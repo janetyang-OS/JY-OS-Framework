@@ -15,8 +15,8 @@ This repository documents the source code for raising a self-directed human in t
     * *Concept:* Escaping the "1D Ladder" to build "4D Time Compounding."
     * [➡️ View Protocol](workflows/strategy_4d_model.md)
 * **[#41] The Human Core** (Civilization Defense)
-    * *Concept:* Identity, Judgment, and Kindness as the ultimate defense.
-    * [➡️ View Protocol](workflows/human_core_protocol.md)
+    * *Concept:* The AI Mirror. Transitioning from "Panic" to "Power" through intentional mastery.
+    * [➡️ View Protocol](workflows/Protocol #41: The AI Mirror & Intentional Mastery)
 * **[#38] The Founder's Mental Model** (Long-Term Navigation)
     * *Concept:* The J-Curve, Human Anchors, and the "OK State."
     * [➡️ View Protocol](workflows/founder_mental_model.md)
