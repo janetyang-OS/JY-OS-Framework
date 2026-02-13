@@ -1,14 +1,18 @@
-# 🛡️ Protocol: The Human Core (Civilization Defense)
+# 🛡️ Protocol #41: The Human Core (Civilization Defense)
 **Status:** Civilization Kernel | **Role:** Guardian | **Objective:** Preserving Humanity in the AI Era
 
-> "Judgment is the core skill. Kindness is the final defense."
+> "We aren't afraid of the mirror; we are afraid of what we've been showing it while we thought no one was looking."
 
-## 🛤️ 1. The Trajectory: From Learner to Self-Directed Human
-**The Shift:** In the past, learning was linear (Listening $\rightarrow$ Thinking).
-**The Risk:** In the AI era, answers are free. The goal is no longer "Knowing"; it is "Becoming."
-* **The Goal:** A human who shines with their own light, not just reflecting AI's light.
+---
 
-![Learner Path](../assets/human-core-01-learner-path.jpg)
+## 🪞 1. The AI Mirror: From Panic to Power
+**The Realization:** AI is not just a tool; it is a mirror reflecting our unconscious digital choices. To survive the age of algorithms, we must transition from "Panic" to "Power."
+
+* **Stage 1: Panic (Unconscious Consumption):** Feeling "naked" because AI knows our patterns, emotions, and precise locations. This is the story of horror.
+* **Stage 2: Education (AI Literacy):** Building a "Filter" through critical thinking. Understanding how data is used and how narratives are constructed.
+* **Stage 3: Power (Intentional Mastery):** Using digital intent and strategic sharing to turn AI into a mirror of mastery.
+
+![Learner Path](../assets/From-panic-power.jpg)
 
 ---
 
