@@ -9,26 +9,30 @@ This repository documents the source code for raising a self-directed human in t
 ---
 
 ## 🧪 Playbook (Evidence Infrastructure)
-This is where JY-OS becomes **an asset**, not just ideas.
+
+This is where JY-OS becomes **an asset**, not just ideas.  
 It documents operational casework: **workflow → evidence → diagnosis → prescription → change**.
 
 ### 🔁 Core Loops
-* **CAP Daily Loop (12+8 SOP)** — evidence-based reading judgment  
-  * [➡️ View Playbook](playbook/reading-judgment/README.md)
+- **CAP Daily Loop (12+8 SOP)** — evidence-based reading judgment  
+  - [➡️ Open Doc](playbook/reading-judgment/README.md)
 
-* **PVUL: Philosophy Validated Understanding Loop** — input → model → practice → student output → diagnosis → fix  
-  * [➡️ View Loop](playbook/philosophy/bridge-to-lab/philosophy-validated-understanding-loop.md)
+- **PVUL: Philosophy Validated Understanding Loop** — input → model → practice → student output → diagnosis → fix → **assetization**  
+  - [➡️ Open Doc](playbook/philosophy/bridge-to-lab/philosophy-validated-understanding-loop.md)
 
-### 🧾 Evidence Library
-* **Case Library (Anonymized)** — real student patterns & fixes  
-  * [➡️ View Cases](playbook/case-library/README.md)
+### 📚 Evidence Library
+- **Case Library (Anonymized)** — real student patterns & fixes  
+  - [➡️ Open Doc](playbook/case-library/README.md)
 
-* **Error Taxonomy & Fix Library** — diagnostic codes → prescriptions  
-  * [➡️ Error Codes](playbook/taxonomy/error-codes.md)  
-  * [➡️ Fix Library](playbook/taxonomy/fix-library.md)
+- **Case Record Schema** — standard fields for daily logs & case entries  
+  - [➡️ Open Doc](playbook/case-library/case-record-schema.md)
 
-* **CHANGELOG** — weekly iteration log (system upgrades)  
-  * [➡️ View Changelog](playbook/CHANGELOG.md)
+- **Error Taxonomy & Fix Library** — diagnostic codes → prescriptions  
+  - [➡️ Open Doc](playbook/taxonomy/error-codes.md)  
+  - [➡️ Open Doc](playbook/taxonomy/fix-library.md)
+
+- **CHANGELOG** — weekly iteration log (system upgrades)  
+  - [➡️ Open Doc](playbook/CHANGELOG.md)
 
 ---
 
