@@ -8,6 +8,30 @@ This repository documents the source code for raising a self-directed human in t
 
 ---
 
+## 🧪 Playbook (Evidence Infrastructure)
+This is where JY-OS becomes **an asset**, not just ideas.
+It documents operational casework: **workflow → evidence → diagnosis → prescription → change**.
+
+### 🔁 Core Loops
+* **CAP Daily Loop (12+8 SOP)** — evidence-based reading judgment  
+  * [➡️ View Playbook](playbook/reading-judgment/README.md)
+
+* **PVUL: Philosophy Validated Understanding Loop** — input → model → practice → student output → diagnosis → fix  
+  * [➡️ View Loop](playbook/philosophy/bridge-to-lab/philosophy-validated-understanding-loop.md)
+
+### 🧾 Evidence Library
+* **Case Library (Anonymized)** — real student patterns & fixes  
+  * [➡️ View Cases](playbook/case-library/README.md)
+
+* **Error Taxonomy & Fix Library** — diagnostic codes → prescriptions  
+  * [➡️ Error Codes](playbook/taxonomy/error-codes.md)  
+  * [➡️ Fix Library](playbook/taxonomy/fix-library.md)
+
+* **CHANGELOG** — weekly iteration log (system upgrades)  
+  * [➡️ View Changelog](playbook/CHANGELOG.md)
+
+---
+
 ## 📂 Protocol Library (系統核心目錄)
 
 ### 🛡️ The Civilization Layer (Philosophy)
@@ -36,8 +60,8 @@ This repository documents the source code for raising a self-directed human in t
     * [➡️ View Protocol](workflows/iteration_spiral.md)
 
 ### 🛠️ The Interface Layer (Execution Tools)
-* **[#40] The CAP Reading Strategy** (Exam Tactics)
-    * *Concept:* Evidence-based answering (12+8 SOP) to fix intuition guessing.
+* **[#40] The CAP Reading Strategy** (Evidence Workflow — Playbook Core)
+    * *Concept:* Evidence-based answering (12+8 SOP → evidence → diagnosis) to fix intuition guessing.
     * [➡️ View Protocol](workflows/exam_reading_protocol.md)
 * **[#36] The 13-Agent AI Staff** (Orchestration)
     * *Concept:* A layered AI team (Tactical, Strategy, Audit) for mission support.
