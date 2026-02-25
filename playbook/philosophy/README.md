@@ -37,6 +37,16 @@ No output → no evidence → no asset.
 ---
 
 ## Artifacts (GitHub Asset Types)
+## Key References
+- Framework Library Index  
+  [➡️ Open Doc](frameworks/index.md)
+
+- Glossary  
+  [➡️ Open Doc](glossary.md)
+
+- Positioning Snippet  
+  [➡️ Open Doc](positioning/why-philosophy-in-ai-age.md)
+
 Each PVUL cycle must produce **at least one** artifact.
 
 Choose ONE per cycle:
