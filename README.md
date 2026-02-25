@@ -28,8 +28,8 @@ It documents operational casework: **workflow → evidence → diagnosis → pre
   - [➡️ Open Doc](playbook/case-library/case-record-schema.md)
 
 - **Error Taxonomy & Fix Library** — diagnostic codes → prescriptions  
-  - [➡️ Open Doc](playbook/taxonomy/error-codes.md)  
-  - [➡️ Open Doc](playbook/taxonomy/fix-library.md)
+  - [➡️ Error Codes](playbook/taxonomy/error-codes.md)  
+  - [➡️ Fix Library](playbook/taxonomy/fix-library.md)
 
 - **CHANGELOG** — weekly iteration log (system upgrades)  
   - [➡️ Open Doc](playbook/CHANGELOG.md)
