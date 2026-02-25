@@ -1,6 +1,7 @@
 # Framework Library (Philosophy)
 
 ## Purpose
+These frameworks must always map back to evidence discipline in the Playbook.
 This folder stores reusable mental models used in the AI era.
 
 Each framework page must include:
@@ -16,9 +17,9 @@ Each framework page must include:
 
 | Framework | Focus | Status |
 |---|---|---|
-| framework-assertion-vs-proposition.md | Language vs truth; what counts as a claim | Draft |
-| framework-gettier-luck.md | “True by luck” ≠ knowledge; why correct answers can be unsafe | Draft |
-| framework-reality-belief-ai.md | Reality → human belief → AI answer layers | Draft |
+| [framework-assertion-vs-proposition.md](framework-assertion-vs-proposition.md) | Language vs truth; what counts as a claim | Active |
+| [framework-gettier-luck.md](framework-gettier-luck.md) | “True by luck” ≠ knowledge; why correct answers can be unsafe | Active |
+| [framework-reality-belief-ai.md](framework-reality-belief-ai.md) | Reality → human belief → AI answer layers | Active |
 
 ---
 
