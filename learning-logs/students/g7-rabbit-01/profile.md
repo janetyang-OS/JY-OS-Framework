@@ -2,6 +2,7 @@
 
 - student_id: G7-RABBIT-01
 - grade: G7
+- target_band: G9 readiness (trial)
 - school_system: Taiwan CAP track (advanced structural mode)
 - track: CAP_READING_ADV
 - report_cycle: Weekly
