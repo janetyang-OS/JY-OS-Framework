@@ -127,3 +127,16 @@ A valid daily report must include:
 - Next-step focus (1 line)
 
 If missing evidence sentence → mark `INVALID_FOR_PLAYBOOK`.
+
+---
+
+## Judgment Protocol Layer
+
+The workflow above defines **how practice runs**.
+
+The **Judgment Protocol Layer** defines **how decisions are made** during reading.
+
+It documents the structural reasoning used in CAP reading tasks.
+
+➡️ Open Protocol Layer  
+[protocol-layer/README.md](protocol-layer/README.md)
