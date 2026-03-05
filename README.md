@@ -2,7 +2,8 @@
 > **"Don't control the child. Debug the system."**
 
 ## 📖 Introduction
-JY-OS is an open-source **Human Operating System** designed for the AI era. It applies software engineering principles—Architecture, CI/CD, Debugging, and System Maintenance—to personal growth and parenting.
+JY-OS is an open-source **Human Operating System** designed for the AI era. It applies software engineering principles—Architecture, CI/CD, Debugging, and System Maintenance—to personal growth and parenting.JY-OS treats learning as a debuggable system:
+workflow → artifact → diagnosis → protocol → iteration.
 
 This repository documents the source code for raising a self-directed human in the age of infinite intelligence.
 
@@ -16,6 +17,9 @@ It documents operational casework: **workflow → evidence → diagnosis → pre
 ### 🔁 Core Loops
 - **CAP Daily Loop (12+8 SOP)** — evidence-based reading judgment  
   - [➡️ Open Doc](playbook/reading-judgment/README.md)
+
+- **CAP Judgment Protocol Layer** — structural reasoning protocols used to validate reading decisions  
+  - [➡️ Open Doc](playbook/reading-judgment/protocol-layer/README.md)
 
 - **PVUL: Philosophy Validated Understanding Loop** — input → model → practice → student output → diagnosis → fix → **assetization**  
   - [➡️ Open Doc](playbook/philosophy/bridge-to-lab/philosophy-validated-understanding-loop.md)
