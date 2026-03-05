@@ -48,11 +48,17 @@ These cases document:
 
 ## Case Index
 
-| Case ID | Date | Case Type | Focus | Codes | Status |
+| Case ID | Case Type | Focus | Codes | Status |
 |---|---|---|---|---|
 | [case-001](case-001.md) | Transition Trigger | Stability → Level 2 escalation logic | R-COMFORT-1 → FIX-T1 / FIX-E2 / FIX-D1 | Active |
+| case-002 | Error Pattern | CEFR writing single-outcome drift | FIX-CEFR-SINGLE-OUTCOME | Active |
+| case-003 | Error Pattern | CAP grammar trap cluster (tense sequence / warning connector) | FIX-WR-TENSE_SEQ / FIX-WR-CONJ_WARN | Active |
+| case-004 | Skill Transition | B1 → B2 argument structure gap | B2-ARG-GATE | Active |
+| case-005 | Risk Trigger | Dual-support evidence discrimination | R-DUAL-SUPPORT-GATE | Active |
+| case-006 | Error Pattern | Narrative tense consistency | FIX-CEFR-TENSE | Active |
 
 ---
+
 ## Case Categories
 
 Cases fall into three operational categories.
