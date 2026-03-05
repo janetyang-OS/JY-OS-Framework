@@ -18,13 +18,66 @@ Cases are anonymized and written to be **repeatable**: another coach should be a
 
 ---
 
+## Weekly Update Workflow
+
+New cases are added **every Friday** based on AI Coach weekly reports.
+
+Each report may generate multiple Case Units (one per student or event).
+
+### Workflow
+
+1. AI Coach weekly reports collected
+2. Extract key signals:
+   - error pattern OR risk trigger
+   - supporting evidence sentence
+   - diagnosis codes
+3. Convert to Case Unit format
+4. Assign next Case ID
+5. Update Case Index
+6. Commit
+
+### Typical Weekly Additions
+A single weekly report cycle may add **3–6 new cases**.
+
+These cases document:
+
+- reasoning error patterns
+- stability triggers
+- escalation logic
+- protocol improvement signals
+
 ## Case Index
 
-| Case ID | Case Type | Focus | Codes | Status |
+| Case ID | Date | Case Type | Focus | Codes | Status |
 |---|---|---|---|---|
 | [case-001](case-001.md) | Transition Trigger | Stability → Level 2 escalation logic | R-COMFORT-1 → FIX-T1 / FIX-E2 / FIX-D1 | Active |
 
 ---
+## Case Categories
+
+Cases fall into three operational categories.
+
+### 1️⃣ Error Case
+Documents a recurring reasoning or language error pattern.
+
+Example:
+- inference compression
+- evidence misalignment
+- tense consistency drift
+
+### 2️⃣ Transition Trigger
+Documents a **protocol escalation event**.
+
+Example:
+- stability → timed pressure test
+- Level 1 → Level 2 CAP transition
+
+### 3️⃣ Protocol Evolution
+Documents situations where **a protocol rule changes** due to repeated cases.
+
+Example:
+- new evidence verification rule
+- modified escalation threshold
 
 ## Case Unit Format (Standard)
 
@@ -55,8 +108,14 @@ Every case file must include:
 ---
 
 ## Add a New Case (Quick Steps)
-1) Duplicate the latest case file (or use the template below).
-2) Assign the next case id: `case-002`, `case-003`, ...
-3) Ensure Evidence Artifact includes at least **1 exact sentence**.
-4) Update the Case Index table.
-5) Commit with message: `Add case-00X <short title>`
+
+1. Duplicate the latest case file or use `case-template.md`.
+2. Assign the next Case ID: `case-002`, `case-003`, ...
+3. Ensure **Evidence Artifact includes at least 1 exact sentence**.
+4. Confirm either:
+   - error codes exist, OR
+   - a risk code is assigned.
+5. Add the case to the **Case Index table**.
+6. Commit with message:
+
+Add case-00X <short-title>
