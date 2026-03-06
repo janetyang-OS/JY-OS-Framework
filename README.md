@@ -156,6 +156,11 @@ Narrative reflections and interpretations are occasionally published on Medium a
 
 ## 📂 Protocol Library (系統核心目錄)
 
+### AI Learning Architecture
+
+• Multi-Agent AI Learning Structure  
+[➡️ View Architecture](workflows/ai-learning-architecture.md)
+
 ### 🛡️ The Civilization Layer (Philosophy)
 * **[#42] The 4D Strategy Model** (Career Architecture)
     * *Concept:* Escaping the "1D Ladder" to build "4D Time Compounding."
