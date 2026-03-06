@@ -2,14 +2,14 @@
 
 This document records weekly observations from the Logan AI Learning Experiment.
 
-The goal is to document how an AI-supported learning environment interacts with real academic development.
+The goal is to document how an AI-supported learning environment interacts with real academic development within the IB framework.
 
 The logs focus on:
 
 • learning patterns  
 • reasoning development  
 • protocol adjustments  
-• academic performance stability  
+• academic stability  
 
 ---
 
@@ -26,65 +26,80 @@ International Baccalaureate (IB)
 Current Stage  
 MYP Year 4 (Grade 9)
 
-Current focus:  
-Stabilizing academic performance across subjects.
+Primary goal:  
+Achieve **stable Level 6 performance across subjects**.
+
+---
+
+## Academic Status
+
+| Subject | Status | Notes |
+|-------|------|------|
+| English | Stable | Argument structure and written reasoning consistent |
+| Mathematics | Developing | Communication (Criterion C) and application (Criterion D) still strengthening |
+| Science | Stable | Concept understanding and reasoning stable |
+| Individuals & Societies | Stable | Analytical reasoning and explanation structure stable |
 
 ---
 
 ## Key Observation
 
-Logan is currently performing at approximately **Level 6 stability in most subjects**, with mathematics still developing.
+Logan demonstrates stable reasoning structure across most subjects.
 
-Other subjects show consistent reasoning structure and academic performance.
+AI coaching interactions are primarily used for:
 
-Mathematics currently requires additional reinforcement in:
+• clarifying concepts  
+• strengthening reasoning steps  
+• improving explanation structure  
 
-• mathematical communication (Criterion C)  
-• real-world application reasoning (Criterion D)
+The interaction pattern suggests that AI functions mainly as a **reasoning support system** rather than an answer-generation tool.
 
 ---
 
 ## AI Coaching Interaction
 
-AI coaches are primarily used for:
+AI coaches support learning through:
 
 • reasoning feedback  
 • explanation refinement  
-• learning structure clarification
+• structured thinking guidance  
 
-The system avoids direct answer generation.
+The system avoids direct answer generation and instead emphasizes reasoning development.
 
-Instead, AI is used to support:
+Typical interaction pattern:
 
-• concept clarification  
-• reasoning correction  
-• structured thinking
+student question  
+→ concept clarification  
+→ reasoning refinement  
+→ explanation improvement
 
 ---
 
 ## Learning Environment
 
-The student maintains a balanced lifestyle including:
+The learning environment emphasizes sustainable development rather than academic overtraining.
 
-• school learning  
-• sports activities  
-• social interaction with peers
+Logan maintains a balanced routine including:
 
-Sleep routine remains stable.
+• academic learning  
+• sports participation  
+• peer social interaction  
 
-Typical sleep schedule:
+Sleep schedule remains stable.
 
-21:00 lights-off
+Typical routine:
+
+**21:00 lights-off**
 
 ---
 
 ## System Observation
 
-The AI coaching environment currently functions as:
+The AI coaching environment currently functions as a **learning support infrastructure** integrated with the IB academic framework.
 
-a **learning support infrastructure**, rather than a tutoring system.
+The student increasingly interacts with AI coaches for clarification and reasoning support while maintaining independent problem-solving attempts.
 
-The student interacts with AI coaches for clarification and reasoning guidance.
+Learning momentum remains stable.
 
 ---
 
@@ -92,30 +107,34 @@ The student interacts with AI coaches for clarification and reasoning guidance.
 
 Current protocol focus:
 
-Strengthening structured reasoning in mathematics.
+Strengthening mathematical reasoning communication.
 
 Approach includes:
 
 • breaking down reasoning steps  
-• focusing on communication clarity  
-• improving explanation structure
+• emphasizing explanation clarity  
+• connecting mathematical concepts to real-world contexts
 
 ---
 
 ## Current System State
 
-Learning momentum: Stable
+Learning momentum: Stable  
+Student engagement: Positive  
 
-Student emotional state: Positive
-
-The student maintains curiosity and engagement in learning tasks.
+The student maintains curiosity and active engagement in learning tasks.
 
 ---
 
 ## Next Observation Focus
 
-Upcoming observation will monitor:
+Upcoming observations will monitor:
 
-• mathematics reasoning improvement  
-• communication clarity in written work  
-• stability of academic performance across subjects
+• improvement in mathematical reasoning clarity  
+• communication quality in written explanations  
+• stability across the four monitored subjects:
+
+English  
+Mathematics  
+Science  
+Individuals & Societies
