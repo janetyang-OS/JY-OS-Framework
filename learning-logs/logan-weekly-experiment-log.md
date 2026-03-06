@@ -1,8 +1,8 @@
 # Logan AI Learning Experiment — Weekly Log
 
-This document records weekly observations from the Logan AI Learning Experiment.
+This document records weekly observations from the **Logan AI Learning Experiment**.
 
-The goal is to document how an AI-supported learning environment interacts with real academic development within the IB framework.
+The goal is to document how an **AI-supported learning environment** interacts with real academic development within the IB framework.
 
 The logs focus on:
 
@@ -13,20 +13,44 @@ The logs focus on:
 
 ---
 
+# Logan Learning Trajectory
+
+This tracker visualizes Logan’s learning stability across key IB subjects.
+
+The goal is to observe **long-term development patterns** rather than relying on single test results.
+
+| Week | English | Mathematics | Science | I&S |
+|-----|--------|-------------|--------|-----|
+| Week 1 | Stable | Developing | Stable | Stable |
+| Week 2 | Stable | Developing | Stable | Stable |
+| Week 3 |  |  |  |  |
+| Week 4 |  |  |  |  |
+| Week 5 |  |  |  |  |
+| Week 6 |  |  |  |  |
+
+**Legend**
+
+Stable — reasoning and performance consistent  
+Developing — improvement in progress  
+Needs Attention — additional support required  
+
+---
+
 # Week 1 — Experiment Initialization
 
 ## Academic Context
 
-School  
+**School**  
 Taipei European School (TES)
 
-Programme  
+**Programme**  
 International Baccalaureate (IB)
 
-Current Stage  
+**Current Stage**  
 MYP Year 4 (Grade 9)
 
-Primary goal:  
+**Primary Goal**
+
 Achieve **stable Level 6 performance across subjects**.
 
 ---
@@ -52,7 +76,7 @@ AI coaching interactions are primarily used for:
 • strengthening reasoning steps  
 • improving explanation structure  
 
-The interaction pattern suggests that AI functions mainly as a **reasoning support system** rather than an answer-generation tool.
+The interaction pattern suggests that AI functions mainly as a **reasoning support system**, rather than an answer-generation tool.
 
 ---
 
@@ -64,7 +88,7 @@ AI coaches support learning through:
 • explanation refinement  
 • structured thinking guidance  
 
-The system avoids direct answer generation and instead emphasizes reasoning development.
+The system avoids direct answer generation and instead emphasizes **reasoning development**.
 
 Typical interaction pattern:
 
@@ -77,7 +101,7 @@ student question
 
 ## Learning Environment
 
-The learning environment emphasizes sustainable development rather than academic overtraining.
+The learning environment emphasizes **sustainable development** rather than academic overtraining.
 
 Logan maintains a balanced routine including:
 
@@ -107,7 +131,7 @@ Learning momentum remains stable.
 
 Current protocol focus:
 
-Strengthening mathematical reasoning communication.
+**Strengthening mathematical reasoning communication.**
 
 Approach includes:
 
@@ -119,10 +143,10 @@ Approach includes:
 
 ## Current System State
 
-Learning momentum: Stable  
-Student engagement: Positive  
+Learning momentum: **Stable**  
+Student engagement: **Positive**
 
-The student maintains curiosity and active engagement in learning tasks.
+Logan maintains curiosity and active engagement in learning tasks.
 
 ---
 
