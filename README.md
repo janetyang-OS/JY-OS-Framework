@@ -152,6 +152,16 @@ It documents operational casework: **workflow → evidence → diagnosis → pre
 
 ---
 
+## 🔬 Real-World Learning Experiment
+
+JY-OS is not only a conceptual framework.
+
+The system is currently being observed in a real learning environment.
+
+### Reference Experiment
+- **Logan AI Learning Experiment** — AI-supported IB learning environment  
+  - [➡️ Open Doc](case_studies/logan-ai-learning-experiment.md)
+
 ## 📂 Protocol Library (系統核心目錄)
 
 ### 🛡️ The Civilization Layer (Philosophy)
