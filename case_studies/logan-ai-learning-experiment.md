@@ -1,36 +1,49 @@
-# Logan Experiment — AI-Native Learning Case
+# Logan AI Learning Experiment
 
-This repository documents a longitudinal learning experiment observing how a student learns within an AI-supported environment.
+## Overview
 
-The project explores how a coordinated group of AI coaches can support learning efficiency, judgment development, and knowledge compounding.
+The Logan AI Learning Experiment documents a real-world learning environment supported by an AI coaching architecture.
 
-The goal is not tutoring optimization, but the study of **AI-native learning infrastructure**.
+The project explores how a student can learn efficiently within a **human-designed AI learning system**.
+
+Rather than replacing teachers, the system aims to **augment learning efficiency, reasoning quality, and knowledge compounding**.
+
+The experiment is conducted as part of the **JY-OS Human Operating System project**.
+
+---
+
+# Research Question
+
+The experiment explores a central question:
+
+**Can an AI-assisted learning environment improve learning efficiency within a rigorous academic system?**
+
+Sub-questions include:
+
+1. Can AI coaching support structured reasoning development?
+2. Can learning protocols improve academic performance stability?
+3. Can a coordinated AI coaching architecture support independent learning?
 
 ---
 
 # Experiment Context
 
-Student: Logan  
-Environment: Home-supported learning + international school system  
-Framework: JY-OS Human Operating System  
+**Student**
 
-The experiment studies how an AI-assisted cognitive infrastructure can support a student's academic development across multiple subjects.
+Logan  
+IB student at Taipei European School
 
-Logan serves as the **reference case** for the JY-OS learning architecture.
+**System Architect / Observer**
 
----
+Janet Yang
 
-# Observation Period
+**Learning Environment**
 
-IB MYP Year 4 (Grade 9) → IB Diploma Programme (Grades 11–12)
-
-The observation follows the student's progression from the IB Middle Years Programme into the IB Diploma Programme.
-
-This period allows longitudinal observation of learning development within a consistent academic framework.
+Home-supported AI learning architecture operating alongside the IB curriculum.
 
 ---
 
-# Learning Environment
+# Academic Framework
 
 School  
 Taipei European School (TES)
@@ -38,86 +51,158 @@ Taipei European School (TES)
 Programme  
 International Baccalaureate (IB)
 
-Current Level  
-MYP Year 4 (Grade 9)
+Current Stage  
 
-Logan participates in the IB curriculum while operating inside a home-supported AI learning environment.
+IB MYP Year 4 (Grade 9)
+
+Future progression:
+
+IB Diploma Programme (Grades 11–12)
+
+---
+
+# Observation Period
+
+The experiment follows the student's development across multiple academic years.
+
+Observation window:
+
+**IB MYP Year 4 → IB Diploma Programme**
+
+This allows longitudinal observation of learning development under a consistent academic structure.
 
 ---
 
 # AI Coaching Architecture
 
-Logan is supported by a coordinated AI coaching environment.
+The learning environment is supported by a coordinated group of AI coaches.
 
 Each coach focuses on a specific learning domain.
 
-Current AI coaching structure:
+Example structure:
 
-- English Coach
-- Mathematics Coach
-- Science Coach
-- Individuals & Societies Coach
-- Language Coach
-- Meta Coach (learning strategy)
+**Core Academic Coaches**
 
-The system emphasizes **guided reasoning and structured feedback**, rather than answer generation.
+English Coach  
+Mathematics Coach  
+Science Coach  
+Individuals & Societies Coach  
+
+**Language Development**
+
+French Coach  
+Italian Coach
+
+**Meta Layer**
+
+Meta Coach  
+Reasoning Coach
+
+The AI coaches focus on:
+
+- reasoning guidance
+- feedback loops
+- structured thinking
+
+They do **not function as answer generators**.
+
+---
+
+# Learning Protocols
+
+The system applies several learning protocols developed within the JY-OS framework.
+
+Examples include:
+
+CAP Reading Protocol  
+Evidence-Based Reasoning  
+PVUL (Philosophy Validated Understanding Loop)
+
+These protocols help stabilize decision making and reduce guess-based learning.
 
 ---
 
 # Assessment Framework
 
-Student performance follows the IB MYP criteria system.
+Academic performance follows the IB MYP evaluation criteria.
 
-Criterion A — Knowing & Understanding  
-Criterion B — Investigating  
-Criterion C — Communicating  
-Criterion D — Applying Knowledge
+Criterion A  
+Knowing & Understanding
 
-These criteria provide a consistent structure for observing learning progress over time.
+Criterion B  
+Investigating
+
+Criterion C  
+Communicating
+
+Criterion D  
+Applying Knowledge
+
+The experiment observes how structured learning protocols influence performance across these criteria.
+
+---
+
+# Learning Environment Design
+
+The environment emphasizes:
+
+Study Smart  
+Play Hard  
+Healthy Social Development
+
+The student maintains:
+
+regular sports activity  
+peer social life  
+structured sleep schedule
+
+Example rule:
+
+**21:00 lights-off sleep routine**
+
+The design goal is sustainable learning rather than academic overtraining.
 
 ---
 
 # Documentation Method
 
-Learning observations are recorded through:
+Observations are recorded through:
 
-- weekly learning summaries
-- case records
-- protocol adjustments
-- performance observations
+weekly learning logs  
+case studies  
+protocol adjustments  
+performance observations
 
-Selected patterns and insights are published into the **JY-OS Case Library**.
-
----
-
-# Research Focus
-
-The Logan Experiment explores three questions:
-
-1. Can AI coaching environments improve learning efficiency?
-2. How does structured feedback affect judgment development?
-3. Can learning protocols evolve through real-world cases?
+Key patterns are documented inside the **JY-OS case library**.
 
 ---
 
-# Status
+# Current Status
 
 Current Phase
 
-Year 9 — Solid 6 target across subjects.
+IB MYP Year 4 (Grade 9)
 
-Primary focus:
+Primary goal:
 
-- strengthening reasoning quality
-- stabilizing IB rubric performance
-- developing learning independence
+Achieve **stable Level 6 performance across subjects**.
+
+Focus areas include:
+
+mathematical reasoning  
+structured communication  
+academic stability
 
 ---
 
-# Related Infrastructure
+# Long-Term Goal
 
-JY-OS Framework  
-https://github.com/janetyang-OS/JY-OS-Framework
+The experiment aims to document:
 
-Case Library  
-https://github.com/janetyang-OS/JY-OS-Framework/tree/main/playbook/case-library
+how AI-supported learning environments affect long-term student development.
+
+The project may contribute insights into:
+
+AI-assisted education  
+learning system architecture  
+human-AI collaboration in education.
