@@ -103,7 +103,13 @@ The experiment explores a central question:
 
 Can an AI-assisted learning environment support efficient human learning inside a rigorous academic system?
 
-The observation period follows the student’s progression from IB MYP Year 4 (approximately Grade 9) through to the IB Diploma Programme (approximately Grades 11–12)
+Observation Period
+
+IB MYP Year 4 (Grade 9) → IB Diploma Programme (Grades 11–12)
+
+The observation follows the student's progression from the IB Middle Years Programme into the IB Diploma Programme.
+
+This period allows longitudinal observation of learning development within a consistent academic framework.
 
 The experiment logs and observations are documented in the repository.
 
