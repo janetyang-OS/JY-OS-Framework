@@ -17,6 +17,8 @@ It is an operating framework for human learning systems in the AI era.
 ## Architecture Overview
 
 ![JY-OS Architecture](assets/jy-os-architecture.jpg)
+Repository Structure  
+➡️ [View Repository Map](assets/jy-os-repository-map.md)
 
 JY-OS is structured similarly to a modern system architecture, separating **protocol governance** from **learning execution**.
 
