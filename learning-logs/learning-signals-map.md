@@ -1,8 +1,8 @@
 # Student Learning Signals Map
 
-This table records weekly cognitive signals observed from AI coaches.
+This table tracks cognitive learning signals observed through AI coaching.
 
-The goal is not grading students but tracking learning stability and reasoning development across subjects.
+The purpose is to monitor reasoning development rather than scores.
 
 ---
 
@@ -14,13 +14,28 @@ Needs Attention — additional support required
 
 ---
 
+# Student Profile
+
+| Student | Animal | Grade | Track | Update Cycle |
+|-------|-------|------|------|-------------|
+| Logan | Lazy Pig | G8 | IB | Weekly |
+| Audrey | Owl | G8 | CEFR | Weekly |
+| Phoebe | Fox | G5 | CEFR | Weekly |
+| Duke | Lion | G7 | CEFR | Weekly |
+| Ruby | Rabbit | G7 | CAP | Weekly |
+| Eric | Bear | G7 | CAP | Weekly |
+| Belle | Deer | G7 | CAP | Biweekly |
+
+---
+
 # Weekly Cognitive Signals
 
-| Student | Grade | Evidence Usage | Reasoning | Structure | Concept Depth | Response Completeness | Pattern Recognition |
-|-------|------|---------------|-----------|-----------|---------------|----------------------|--------------------|
-| Logan (Lazy Pig) | G8 | Stable | Developing | Stable | Needs Attention | Developing | Stable |
-| Ruby | G8 | Stable | Stable | Stable | Developing | Stable | Stable |
-| Duke | G7 | Developing | Developing | Stable | Developing | Developing | Stable |
-| Eric | G7 | Stable | Developing | Stable | Developing | Stable | Developing |
-| Audrey (Owl) | G8 | Stable | Stable | Stable | Developing | Stable | Stable |
-| Phoebe (Fox) | G5 | Developing | Developing | Developing | Developing | Developing | Developing |
+| Student | Evidence | Reasoning | Structure | Concept Depth | Response Completeness | Pattern Recognition |
+|-------|---------|---------|---------|---------------|----------------------|--------------------|
+| Logan | Stable | Developing | Stable | Needs Attention | Developing | Stable |
+| Ruby | Stable | Stable | Stable | Developing | Stable | Stable |
+| Duke | Developing | Developing | Stable | Developing | Developing | Stable |
+| Eric | Stable | Developing | Stable | Developing | Stable | Developing |
+| Audrey | Stable | Stable | Stable | Developing | Stable | Stable |
+| Phoebe | Developing | Developing | Developing | Developing | Developing | Developing |
+| Belle | Developing | Developing | Developing | Developing | Developing | Developing |
