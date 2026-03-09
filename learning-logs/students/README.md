@@ -1,12 +1,55 @@
-# Students (Cohort Index)
+# Student Learning Dataset
 
-| Student (Animal ID) | student_id | Grade | Track | Report Cycle | GitHub Commit Rhythm |
-|---|---|---:|---|---|---|
-| Lazy Pig | Y9-LAZYPIG-01 | Y9 | MYP_IB (Project-run) | Weekly | Daily |
-| Lion | G7-LION-01 | G7 | CEFR_FOUNDATION | Weekly | Weekly |
-| Owl | G8-OWL-01 | G8 | CEFR_FOUNDATION (motivation-sensitive) | Weekly | Weekly |
-| Fox | G5-FOX-01 | G5 | CEFR_FOUNDATION (under-13) | Weekly | Weekly |
-| Bear | G7-BEAR-01 | G7 | CAP_READING | Weekly | Weekly |
-| Deer | G7-DEER-01 | G7 | CAP_PREP_WRITING_CONTROL | Biweekly | Biweekly |
-| Badger | G8-BADGER-01 | G8 | CAP_READING | Weekly | Weekly |
-| Rabbit | G7-RABBIT-01 | G7 | CAP_READING_ADV (Target Band: G9 trial) | Weekly | Weekly |
+This directory contains anonymized student learning logs used in the JY-OS Reading Judgment Lab.
+
+Each student folder represents an individual learning case used to observe:
+
+• reasoning development  
+• learning discipline  
+• language skill stabilization  
+• AI-assisted coaching interaction  
+
+The dataset is used to study how structured AI coaching influences student learning trajectories.
+
+---
+
+## Folder Structure
+
+Each student folder follows the same structure:
+
+### profile.md
+Basic student information and learning track.
+
+### learning-log.md
+Weekly learning observations and training focus.
+
+### metrics.md
+Skill stability tracking across training cycles.
+
+---
+
+## Student Index
+
+| Student | ID | Track |
+|------|------|------|
+| Phoebe | g5-fox-01 | CEFR Foundation Writing |
+| Eric | g7-bear-01 | Judgment Reading |
+| Duke | g7-lion-01 | CEFR Writing Development |
+| Ruby | g7-rabbit-01 | CAP Structural Reading |
+| Audrey | g8-owl-01 | CEFR Writing Development |
+| Logan | y9-lazypig-01 | IB Preparation |
+
+---
+
+## Research Purpose
+
+The student cases help document how different training protocols affect learning outcomes.
+
+Observed areas include:
+
+• evidence-based reading  
+• inference reasoning  
+• writing stability  
+• learning discipline
+
+These logs serve as a structured dataset for the JY-OS Learning Framework.
