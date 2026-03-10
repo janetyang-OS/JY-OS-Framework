@@ -1,82 +1,70 @@
-# WHY → WHAT → HOW
+# WHY → WHAT → HOW Reasoning Model
 
-![why-what-how-reasoning](https://github.com/user-attachments/assets/be182b9b-1c1b-4b02-b8d1-948694c29b13)
+![Education-Is-Strategy](https://github.com/user-attachments/assets/b8d85651-9e16-4d2c-a4aa-eb183b489ee3)
 
 ## Overview
 
-The WHY → WHAT → HOW model is a simple reasoning framework used to help students make their thinking visible when solving problems.
+The WHY → WHAT → HOW model is a reasoning framework used to make student thinking visible during problem solving.
 
-Many students arrive at correct answers but struggle to clearly explain how they reached them.  
-This model encourages students to externalize their reasoning in a structured way.
+Many students can reach the correct answer but struggle to explain how they arrived there.  
+The missing component is often the **reasoning structure** between steps.
 
----
+This model encourages students to externalize three elements of reasoning:
 
-## Structure
+• **WHY** the method is appropriate  
+• **WHAT** rule or relationship is being used  
+• **HOW** the logical steps connect
 
-The reasoning process is divided into three components.
-
-### WHY
-
-Explain the cause of the approach.
-
-Questions:
-
-• Why is this the correct method?  
-• What is causing the problem?  
-• Why does this relationship apply?
+When these components appear in explanations, reasoning becomes visible.
 
 ---
 
-### WHAT
+## Hidden Thinking Problem
 
-Identify the rule or relationship being used.
+Traditional homework systems often follow this sequence:
 
-Questions:
+Teacher → Homework → Memorize → Answer → Score
 
-• What formula or rule applies?  
-• What relationship exists between the variables?  
-• What mathematical concept is used?
+In this system, the student's internal thinking process is rarely observed.
 
----
+As a result:
 
-### HOW
+Correct answers may appear without clear reasoning.
 
-Explain how the steps connect logically.
+This creates a gap between:
 
-Questions:
-
-• How do the steps move from the rule to the answer?  
-• How does each step justify the next?  
-• How does the reasoning chain lead to the solution?
+Conceptual knowledge  
+and  
+Communicated reasoning.
 
 ---
 
-## Purpose
+## AI Reasoning Learning Loop
 
-The model helps transform **implicit reasoning** into **explicit explanation**.
+In the AI-assisted learning approach documented in this lab, the process looks different.
 
-It is particularly useful in education frameworks where reasoning communication is assessed, such as:
+Question → Reasoning → Explain → Reflect
 
-• IB MYP  
-• IB DP  
-• Analytical writing tasks
+The AI acts as a **reasoning partner**, repeatedly asking students to clarify their thinking.
+
+The goal is not to generate answers but to make reasoning explicit.
 
 ---
 
-## Example Use
+## Relationship to Case Studies
 
-This model was used in the following case:
+This model was applied in:
 
 Case 001 — Logan: Mathematical Reasoning Gap
 
-In that case, a student with strong conceptual understanding struggled to communicate reasoning steps clearly.
+In that case, a student demonstrated strong mathematical understanding but weak reasoning communication.
 
-Using the WHY → WHAT → HOW framework during three short AI-assisted sessions helped improve explanation clarity significantly.
+Using the WHY → WHAT → HOW framework during several short AI-assisted sessions helped make reasoning visible and significantly improved explanation clarity.
 
 ---
 
-## Notes
+## Key Principle
 
-The model is intentionally simple.
+Education is not only about completing tasks.
 
-Its purpose is not to replace formal mathematical proof structures, but to help students build the habit of making reasoning visible.
+Education is about building **thinking systems**.
