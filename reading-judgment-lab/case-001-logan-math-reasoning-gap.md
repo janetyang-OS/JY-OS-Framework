@@ -59,6 +59,7 @@ Instead, the AI repeatedly prompted the student to structure explanations using 
 
 The explanation structure introduced was:
 
+WHY → WHAT → HOW
 
 Students were prompted to explain:
 
@@ -72,6 +73,12 @@ What rule, formula, or relationship is applied.
 How the steps connect logically to reach the final result.
 
 This model forces reasoning to become **explicit rather than assumed**.
+
+### Reasoning Model
+
+This case uses the reasoning framework documented here:
+
+![why-what-how-reasoning](https://github.com/user-attachments/assets/c3799cf8-499c-4bbb-9e2b-e99759974195)
 
 ---
 
