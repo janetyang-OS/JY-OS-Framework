@@ -1,5 +1,7 @@
 # WHY → WHAT → HOW
 
+![why-what-how-reasoning](https://github.com/user-attachments/assets/be182b9b-1c1b-4b02-b8d1-948694c29b13)
+
 ## Overview
 
 The WHY → WHAT → HOW model is a simple reasoning framework used to help students make their thinking visible when solving problems.
