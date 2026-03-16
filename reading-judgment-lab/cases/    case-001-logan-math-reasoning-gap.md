@@ -223,3 +223,11 @@ The main learning objective is not increasing knowledge volume.
 Instead, the focus is:
 
 **making Logan’s internal reasoning visible in writing.**
+
+## Cognitive Pattern
+
+This case demonstrates the **Reasoning Compression Model**.
+
+See model explanation:
+
+../models/reasoning-compression-model.md
