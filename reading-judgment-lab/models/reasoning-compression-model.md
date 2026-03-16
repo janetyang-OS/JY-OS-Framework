@@ -1,6 +1,6 @@
 # Reasoning Compression Model
 
-![Reasoning Compression Model](../../assets/reasoning-compression-model.png)
+![Reasoning Compression Model](../../assets/fast-thinker-compression-model.jpg)
 
 ## Concept
 
