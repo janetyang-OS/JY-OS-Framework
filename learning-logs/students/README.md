@@ -1,6 +1,6 @@
 # Student Learning Dataset
 
-This directory contains anonymized student learning logs used in the JY-OS Reading Judgment Lab.
+This directory contains anonymized student learning logs used in the **JY-OS Reading Judgment Lab**.
 
 Each student folder represents an individual learning case used to observe:
 
@@ -9,31 +9,37 @@ Each student folder represents an individual learning case used to observe:
 • language skill stabilization  
 • AI-assisted coaching interaction  
 
-The dataset is used to study how structured AI coaching influences student learning trajectories.
+The dataset documents how structured **AI coaching protocols** influence student learning trajectories over time.
 
 ---
 
-## Folder Structure
+# Folder Structure
 
-Each student folder follows the same structure:
+Each student folder follows a consistent structure.
 
 ### profile.md
 Basic student information and learning track.
 
 ### learning-log.md
-Weekly learning observations and training focus.
+Chronological observations of learning behavior and training focus.
 
 ### metrics.md
-Skill stability tracking across training cycles.
+Long-term skill stability tracking across training cycles.
+
+### weekly-signals /
+Machine-readable weekly learning diagnostics used to detect emerging learning patterns.
+
+Some students follow **biweekly reporting cycles** depending on training protocol.
 
 ---
 
-## Student Index
+# Student Index
 
 | Student | ID | Track |
 |------|------|------|
 | Phoebe | g5-fox-01 | CEFR Foundation Writing |
 | Eric | g7-bear-01 | Judgment Reading |
+| Belle | g7-deer-01 | Grammar Stabilization |
 | Duke | g7-lion-01 | CEFR Writing Development |
 | Ruby | g7-rabbit-01 | CAP Structural Reading |
 | Audrey | g8-owl-01 | CEFR Writing Development |
@@ -41,15 +47,24 @@ Skill stability tracking across training cycles.
 
 ---
 
-## Research Purpose
+# Research Purpose
 
-The student cases help document how different training protocols affect learning outcomes.
+The student cases help document how structured AI coaching protocols influence learning outcomes.
 
-Observed areas include:
+Observed learning signals include:
 
 • evidence-based reading  
 • inference reasoning  
 • writing stability  
-• learning discipline
+• grammar control  
+• learning discipline  
 
-These logs serve as a structured dataset for the JY-OS Learning Framework.
+The dataset is part of the **JY-OS AI Learning Experiment**, which studies how structured prompting, error-code feedback, and protocol-driven coaching can support student skill development.
+
+---
+
+# Privacy Notice
+
+All student identities are anonymized.
+
+Animal aliases are used to protect student privacy while preserving longitudinal learning records.
