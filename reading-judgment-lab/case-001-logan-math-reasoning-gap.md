@@ -128,3 +128,98 @@ Simple explanation frameworks, combined with short AI-assisted sessions, may hel
 ## Related Model
 
 WHY → WHAT → HOW reasoning framework
+
+## Follow-up Evidence
+Longitudinal Learning Signals
+
+## Week 2026-03-09 → 2026-03-15
+Cross-Coach Learning Signals
+
+This week Logan completed multiple reasoning-based tasks across subjects including philosophy, science explanation, data reasoning, and reading analysis.
+
+### Task Distribution
+
+• Reading analysis  
+• Philosophical argument writing  
+• Scientific explanation  
+• Data interpretation  
+• Historical reasoning  
+• Language practice  
+
+The task set remained balanced between **analysis**, **concept explanation**, and **structured argument writing**.
+
+---
+
+### Core Cognitive Signals
+
+| Signal | Status |
+|------|------|
+| Evidence usage | Stable |
+| Inference reasoning | Stable |
+| Logical structure | Stable |
+| Conceptual depth | Developing |
+| Detail precision | Needs Attention |
+
+Observation:
+
+Logan demonstrates strong **concept identification and argument framing**.  
+However, written responses sometimes compress intermediate reasoning steps.
+
+---
+
+### Cross-Subject Error Patterns
+
+The following error patterns appeared across multiple subjects:
+
+| Error Code | Description |
+|------|------|
+| E-DEPTH-LIMIT | Explanation stops before deeper evaluation |
+| E-DETAIL-SKIP | Reasoning steps compressed in writing |
+| E-PERSPECTIVE-LIMITED | Limited evaluation of alternative viewpoints |
+| E-SCI-CHAIN-GAP | Missing intermediate steps in scientific explanations |
+
+These patterns indicate a **speed-dominant reasoning style**.
+
+---
+
+### Cognitive Behavior Pattern
+
+Logan tends to:
+
+• read quickly  
+• identify key concepts accurately  
+• reach conclusions rapidly  
+
+However, he sometimes **moves to the conclusion before fully expanding the reasoning chain**.
+
+This pattern is typical for **high-verbal analytical learners**.
+
+---
+
+### Weekly System Interpretation
+
+Overall learning status:
+
+**Stable Progress**
+
+Strengths observed:
+
+• strong concept recognition  
+• accurate reading comprehension  
+• clear explanation of complex ideas  
+
+Development focus:
+
+• extend reasoning depth  
+• add one more evaluation step before concluding  
+• slow down slightly in written explanations
+
+---
+
+### System Insight
+
+The main learning objective is not increasing knowledge volume.
+
+Instead, the focus is:
+
+**making Logan’s internal reasoning visible in writing.**
