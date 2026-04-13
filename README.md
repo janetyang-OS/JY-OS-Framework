@@ -1,5 +1,27 @@
 # JY-OS — Human Operating System
 
+![thinking-progression](https://github.com/user-attachments/assets/54a61edb-f68c-452f-a5f5-bf5c0c32a46b)
+### What you are seeing
+
+A real transition from answering → thinking, observed through a live learning system.
+
+Not theory.  
+Observed.
+
+> Same brain. Different outcomes.
+
+## Core Insight
+
+W12 → W14 marks the transition from single-layer explanation to system-level reasoning across subjects.
+
+This is not a knowledge progression.  
+This is a thinking structure upgrade.
+
+---
+
+## Introduction
+
+JY-OS is a cognitive infrastructure designed to help humans operate effectively in the AI era.
 ## Introduction
 
 JY-OS is a cognitive infrastructure designed to help humans operate effectively in the AI era.
