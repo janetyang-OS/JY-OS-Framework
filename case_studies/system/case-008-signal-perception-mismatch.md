@@ -4,125 +4,138 @@
 
 Two students exited the program during Week 16.
 
-Reported reason:
-
-- no visible improvement observed
-- preference for low-stress / happy learning
-- desire for parental involvement in learning direction
+reported:
+- no visible improvement
+- preference for low-stress learning
+- desire for parental involvement
 
 ---
 
 ## System Observation
 
-Internal signals indicate measurable improvement:
+learning signal:
 
-- increased structural control
-- improved consistency of output
-- progression in language and reasoning patterns
+- structural control ↑
+- output consistency ↑
+- skill progression ↑
 
-Learning progression occurred at the **skill level**,  
-but was not recognized at the **perception level**.
+status:
+
+→ positive learning signal present  
+→ progression occurred at structure level  
 
 ---
 
 ## Core Conflict
 
-Mismatch between two evaluation systems:
+evaluation mismatch between:
 
-### System Evaluation (Lab Model)
+### System Evaluation
 
-- tracks structure, consistency, and control
-- detects early-stage improvement signals
-- evaluates learning as a progression over time
+- structure stability
+- execution consistency
+- longitudinal progression
 
----
+### Perception Evaluation
 
-### Parent Evaluation (Perception Model)
-
-- focuses on visible output
-- influenced by student emotion and resistance
-- expects immediate, observable results
+- visible output change
+- emotional resistance
+- short-term result expectation
 
 ---
 
-## Pattern Identified
+## Pattern
 
-> Improvement can exist without being perceived.
+signal: positive  
+perception: negative  
 
-This creates a failure condition where:
-
-- learning signal = positive  
-- perceived outcome = negative  
+→ mismatch
 
 ---
 
-## Comparative Reference
+## Trigger Condition
 
-Reference student: Duke
+mismatch becomes critical when:
 
-- same school environment
-- similar starting level (A2)
-- consistent execution (7 sessions/week)
-- minimal parental intervention
-
-Result:
-
-→ stable progression toward B2 readiness  
+- execution < 4 sessions/week  
+- complaints = high  
+- parent involvement = high  
+- progress type = structural (low visibility)  
 
 ---
 
 ## Failure Mechanism
 
-The system fails when:
+1. progress occurs in low-visibility layer (structure, control)  
+2. perception relies on high-visibility signals (fluency, output jump)  
+3. friction (effort / resistance) increases  
+4. evaluation shifts from signal → feeling  
+5. continuation decision becomes negative  
 
-1. improvement is not yet externally visible  
-2. perception is used as the primary evaluation method  
-3. training structure is overridden by external preference  
+---
+
+## Comparative Reference
+
+control case: G7-Lion-01 (Duke)
+
+- execution: high (7/week)
+- parent involvement: low
+- perception interference: minimal
+
+result:
+
+→ stable progression (B1+ → B2)
 
 ---
 
 ## Model Extraction
 
-Signal ≠ Perception  
+learning outcome = f(execution)
 
-Execution → drives actual learning  
-Perception → determines continuation  
+continuation decision = f(perception)
+
+---
+
+## Boundary Condition
+
+system fails when:
+
+perception overrides signal  
 
 ---
 
 ## System Insight
 
-> Learning systems require alignment between signal and perception.
+alignment required between:
 
-If alignment fails:
+- signal (actual progress)
+- perception (interpreted progress)
 
-- progress may occur but go unrecognized  
-- continuation becomes unlikely  
-- system outcome is terminated prematurely  
+if not:
+
+→ progression continues internally  
+→ termination occurs externally  
+
+---
+
+## Intervention Levers
+
+to prevent failure:
+
+1. increase signal visibility  
+2. align expectation model (parent)  
+3. protect execution threshold (≥4/week)  
+4. reduce friction during low-visibility phase  
 
 ---
 
 ## Classification
 
-This is not a capability failure.
-
-This is a:
-
-👉 **Signal–Perception Mismatch Case**
-
----
-
-## Implication
-
-To scale the system, it must address:
-
-- visibility gap (make improvement observable)
-- expectation alignment (educate evaluation model)
-- protection of execution structure
+→ SIGNAL_PERCEPTION_MISMATCH  
 
 ---
 
 ## One-Line Insight
 
-Learning improved,  
-but the improvement was not visible enough to sustain belief.
+Progress existed in the system,  
+but not in the observer’s model.
