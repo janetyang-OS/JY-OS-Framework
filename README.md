@@ -4,6 +4,8 @@
 ### What you are seeing
 
 A real transition from answering → thinking, observed through a live learning system.
+The repository now includes both success signals and boundary-condition cases.  
+JY-OS documents not only how students improve, but also why learning systems continue, pause, exit, transfer, or fail to stabilize.
 
 Not theory.  
 Observed.
@@ -19,9 +21,6 @@ This is a thinking structure upgrade.
 
 ---
 
-## Introduction
-
-JY-OS is a cognitive infrastructure designed to help humans operate effectively in the AI era.
 ## Introduction
 
 JY-OS is a cognitive infrastructure designed to help humans operate effectively in the AI era.
@@ -136,6 +135,33 @@ It documents operational casework: **workflow → evidence → diagnosis → pre
 - **Case Library (Anonymized)** — real student patterns & fixes  
   - [➡️ Open Doc](playbook/case-library/README.md)
 
+### 🧬 System Boundary Case Studies
+
+These cases document not only learning progress, but also the conditions that make learning systems continue, stall, transfer, or collapse.
+
+- **Case 008 — Signal vs Perception Mismatch**  
+  Progress existed in the system, but not in the observer’s model.
+
+- **Case 016 — Exit Pattern Analysis**  
+  Cross-case extraction from Phoebe and Audrey showing execution instability + perception mismatch.
+
+- **Case 017 — Environment vs Execution**  
+  Comparison of institutional environment and execution architecture.
+
+- **Case 018 — Dependency vs Autonomy**  
+  Family-mediated learning vs student-owned execution continuity.
+
+- **Case 019 — Transfer Without Scaffolding**  
+  Evidence of reasoning transfer into unfamiliar content without school scaffolding.
+
+- **Case 020 — Scaffold Rejection Transition**  
+  When stabilized cognition begins rejecting excessive hints and structure.
+
+- **Case 021 — Public School CAP Divergence**  
+  Same age / public-school track, different CAP Reading Judgment trajectories.
+  
+### 🧾 Case Infrastructure
+
 - **Case Record Schema** — standard fields for daily logs & case entries  
   - [➡️ Open Doc](playbook/case-library/case-record-schema.md)
 
@@ -159,9 +185,9 @@ The repository documents how an AI-supported learning environment operates withi
 ### Reference Experiment
 
 • **Logan AI Learning Experiment**  
-An IB student learning within an AI-assisted cognitive infrastructure.
+A longitudinal IB/MYP learning experiment observing how AI-assisted cognitive infrastructure supports reasoning transfer, subject integration, and independent judgment.
 
-The experiment observes how coordinated AI coaching can support learning efficiency, reasoning development, and knowledge compounding.
+Logan functions as a high-alignment reference case, showing what happens when execution, family alignment, rubric calibration, AI coaching, and cognitive architecture reinforce each other.
 
 ➡️ Open Documentation  
 [Logan AI Learning Experiment](case_studies/logan-ai-learning-experiment.md)
