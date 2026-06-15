@@ -5,7 +5,7 @@ This directory contains anonymized student learning logs used in the **JY-OS Rea
 Each student folder represents an individual learning record used to observe:
 
 * reasoning development
-* learning discipline
+* execution discipline and learning consistency
 * language skill stabilization
 * reading judgment formation
 * AI-assisted coaching interaction
