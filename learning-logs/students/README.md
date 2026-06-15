@@ -15,6 +15,106 @@ The dataset documents how structured **AI coaching protocols** influence student
 
 ---
 
+# Track Architecture
+
+The JY-OS learning dataset is organized around four major instructional tracks.
+
+Students are individual evidence carriers.
+Tracks are the core system assets.
+
+---
+
+## 1. CAP Reading Judgment Track
+
+Core focus:
+
+* evidence-based reading
+* inference control
+* time boundary recognition
+* connector function
+* trap detection
+* risk label reasoning
+
+Primary student evidence:
+
+* Ruby
+
+Core transition:
+
+→ intuitive reading
+→ evidence-based reading judgment
+
+---
+
+## 2. GSAT Academic Reading OS Track
+
+Core focus:
+
+* sentence parsing
+* reading model building
+* evidence alignment
+* inference boundary control
+* academic passage structure
+* confidence calibration
+
+Primary student evidence:
+
+* Eddie
+
+Core transition:
+
+→ Sentence Reader
+→ System Reader
+
+---
+
+## 3. CEFR Output Development Track
+
+Core focus:
+
+* writing stability
+* grammar control
+* speaking fluency
+* paraphrasing
+* academic communication
+* B1 / B2 output progression
+
+Primary student evidence:
+
+* Duke
+* Belle
+* Phoebe
+* Audrey
+
+Core transition:
+
+→ English as output
+→ English as communication / academic tool
+
+---
+
+## 4. IB Cross-Domain Reasoning Track
+
+Core focus:
+
+* rubric-aligned reasoning
+* system thinking
+* mechanism explanation
+* interdisciplinary transfer
+* SDG application
+* Pre-TOK / Pre-EE / Pre-CAS signal collection
+
+Primary student evidence:
+
+* Logan
+
+Core transition:
+
+→ subject performance
+→ cross-domain reasoning architecture
+
+---
+
 # Folder Structure
 
 Each student folder may include the following files or subfolders.
@@ -46,6 +146,12 @@ Some students follow **biweekly reporting cycles** depending on training protoco
 Initial diagnostic reports or baseline gap analysis files.
 
 This folder is used especially for intake students or students entering a new track.
+
+### pause-logs /
+
+Status logs for students whose execution is temporarily suspended.
+
+Pause logs should not include skill evaluation unless active task execution resumes.
 
 ---
 
@@ -110,16 +216,20 @@ The dataset is part of the **JY-OS AI Learning Experiment**, which studies how s
 
 # Current Research Notes
 
-The dataset currently includes several different learning states:
+The dataset currently includes several different learning states.
+
+---
 
 ## Active Development Cases
 
-These students are still producing weekly or biweekly signals.
+These students are still producing weekly or biweekly learning signals.
 
 * Belle
 * Duke
 * Ruby
 * Logan
+
+---
 
 ## Intake Diagnostic Case
 
@@ -132,9 +242,12 @@ Current focus:
 * Reading Model Building
 * Inference Boundary Control
 * Evidence → Reasoning → Answer structure
+* Confidence Calibration
 
 Eddie is not yet treated as a case study.
 Case extraction should wait until Week 2–3 of observation.
+
+---
 
 ## Paused Case
 
@@ -146,6 +259,8 @@ During pause mode:
 * learning evaluation = suspended
 * status logs may continue
 * case value is related to execution continuity and dependency structure
+
+---
 
 ## Exited Cases
 
@@ -177,8 +292,24 @@ Examples of extractable patterns:
 * reading model transition
 * output compliance stabilization
 * low-volume skill stability
+* sentence reader to system reader transition
 
 Case studies should be stored separately from raw student learning logs.
+
+---
+
+# Governance Rule
+
+Every new log should answer one structural question:
+
+**Which track does this evidence belong to?**
+
+Student = evidence carrier.
+Track = system asset.
+
+This prevents the dataset from becoming only a collection of student stories.
+
+The long-term goal is to extract reusable learning protocols from student-level evidence.
 
 ---
 
