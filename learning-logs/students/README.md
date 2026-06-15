@@ -28,21 +28,28 @@ Tracks are the core system assets.
 
 Core focus:
 
-* evidence-based reading
-* inference control
-* time boundary recognition
-* connector function
-* trap detection
-* risk label reasoning
+- evidence-based reading
+- inference control
+- time boundary recognition
+- connector function
+- trap detection
+- risk label reasoning
+- CAP entry readiness through writing-control stabilization
 
 Primary student evidence:
 
-* Ruby
+- Ruby
+- Belle
+
+Student positions:
+
+- Ruby: CAP Structural Reading + G9 Transition
+- Belle: Writing Control + CAP Entry Preparation
 
 Core transition:
 
-→ intuitive reading
-→ evidence-based reading judgment
+→ intuitive reading / unstable output  
+→ evidence-based reading judgment and controlled response execution
 
 ---
 
@@ -82,7 +89,6 @@ Core focus:
 Primary student evidence:
 
 * Duke
-* Belle
 * Phoebe
 * Audrey
 
